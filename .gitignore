@@ -1,0 +1,10 @@
+.venv
+
+.env
+vad_outputs
+
+audio
+test_audio
+
+sample.py
+diarization.log
