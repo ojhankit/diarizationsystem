@@ -2,9 +2,13 @@
 
 .env
 vad_outputs
+after_clustering
+pretrained_models
 
 audio
 test_audio
 
 sample.py
 diarization.log
+
+__pycache__

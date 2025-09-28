@@ -10,8 +10,10 @@ pipeline = Pipeline.from_pretrained(
 )
 
 def voice_activity_detection(wav_files):
+    print("inside function")
     results = {}
     for file in tqdm(wav_files, desc="Running VAD"):
+        print("inside loop")
         try:
             logger.info(f"Processing file: {file}")
             vad_result = pipeline(file)
@@ -47,4 +49,9 @@ def voice_activity_detection(wav_files):
         except Exception as e:
             logger.error(f"Failed to process {file}: {e}")
 
-    return results
+    #return results
+
+
+if __name__ == "__main__":
+
+    voice_activity_detection(wav_files)
