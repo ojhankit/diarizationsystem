@@ -5,47 +5,86 @@ from scipy.sparse.csgraph import laplacian as csgraph_laplacian
 from config import logger
 from sklearn.preprocessing import normalize
 
-def estimate_speakers_eigengap(sim_matrix, max_speakers):
+def estimate_speakers_eigengap(sim_matrix, max_speakers, method):
     """
-    Estimate number of speakers using eigengap heuristic on similarity matrix.
-    Fallback to sqrt(n_segments) if eigengap fails.
+    Estimate number of speakers using multiple heuristics.
+    
+    Args:
+        sim_matrix: precomputed similarity matrix
+        max_speakers: maximum allowed speakers
+        method: 'eigengap', 'sqrt', 'combined' (recommended)
     """
-
     n = sim_matrix.shape[0]
     if n < 2:
         logger.warning("Too few segments for eigengap. Defaulting to 1 speaker.")
         return 1
 
     try:
-        # Eigen decomposition
-        eigvals = np.linalg.eigvalsh(sim_matrix)
-        eigvals = np.sort(eigvals)[::-1]  # sort descending
-
-        # Compute eigengaps
-        gaps = np.diff(eigvals)
-        if len(gaps) == 0:
-            logger.warning("No eigengap available. Falling back to sqrt heuristic.")
-            return max(2, int(np.sqrt(n)))
-
-        # Choose largest eigengap (but limit max_speakers)
-        k = np.argmax(gaps[:max_speakers - 1]) + 1
-        return max(2, min(k, max_speakers))
+        # Method 1: Eigengap on Laplacian (more reliable)
+        # Convert similarity to affinity matrix
+        affinity = sim_matrix.copy()
+        np.fill_diagonal(affinity, 0)  # Remove self-loops for Laplacian
+        
+        # Compute normalized Laplacian
+        degree = np.sum(affinity, axis=1)
+        degree[degree == 0] = 1  # Avoid division by zero
+        D_inv_sqrt = np.diag(1.0 / np.sqrt(degree))
+        L_norm = np.eye(n) - D_inv_sqrt @ affinity @ D_inv_sqrt
+        
+        # Get eigenvalues
+        eigvals = np.linalg.eigvalsh(L_norm)
+        eigvals = np.sort(eigvals)  # ascending for Laplacian
+        
+        # Find eigengap (looking for small eigenvalues)
+        gaps = np.diff(eigvals[:max_speakers])
+        if len(gaps) > 0:
+            k_eigengap = np.argmax(gaps) + 1
+        else:
+            k_eigengap = 2
+            
+        # Method 2: Enhanced sqrt heuristic with scaling
+        k_sqrt = max(2, int(np.sqrt(n) * 1.5))  # Scale up sqrt estimate
+        
+        # Method 3: Connectivity-based estimate
+        # Count number of distinct "communities" based on strong connections
+        threshold = np.percentile(affinity[affinity > 0], 75) if np.any(affinity > 0) else 0.5
+        strong_connections = (affinity > threshold).astype(int)
+        np.fill_diagonal(strong_connections, 0)
+        # Estimate from average connectivity
+        avg_connections = np.mean(np.sum(strong_connections, axis=1))
+        if avg_connections > 0:
+            k_connectivity = max(2, int(n / max(2, avg_connections)))
+        else:
+            k_connectivity = k_sqrt
+        
+        if method == 'eigengap':
+            k = k_eigengap
+        elif method == 'sqrt':
+            k = k_sqrt
+        else:  # combined
+            # Take the maximum of the methods (to avoid under-estimation)
+            # But weight eigengap higher if it suggests more clusters
+            k = max(k_eigengap, int((k_sqrt + k_connectivity) / 2))
+            logger.info(f"Speaker estimates - eigengap: {k_eigengap}, sqrt: {k_sqrt}, connectivity: {k_connectivity}")
+        
+        k = max(2, min(k, max_speakers))
+        logger.info(f"Final speaker estimate: {k}")
+        return k
 
     except Exception as e:
-        logger.error(f"Eigengap estimation failed: {e}. Falling back to sqrt heuristic.")
-        return max(2, int(np.sqrt(n)))
+        logger.error(f"Eigengap estimation failed: {e}. Falling back to enhanced sqrt heuristic.")
+        return max(2, min(int(np.sqrt(n) * 1.5), max_speakers))
 
 
 def first_pass_clustering(
     embeddings,
     min_seg_duration=2.5,
-    max_speakers=20,
-    #affinity_threshold=0.3,
-    affinity_threshold=0.05,
-    under_count_factor=2.5,
+    max_speakers=25,
+    affinity_threshold=0.05,  # Keep low threshold
+    estimation_method='sqrt',
 ):
     """
-    First-pass clustering with eigengap heuristic for speaker estimation.
+    First-pass clustering with improved speaker estimation.
     """
 
     if not embeddings:
@@ -75,9 +114,6 @@ def first_pass_clustering(
         return [0] * len(X)
 
     n_segments = len(X)
-    # est_speakers = max(2, int(np.sqrt(n_segments)))
-    # n_speakers = min(max_speakers, int(est_speakers * under_count_factor))
-    # logger.info(f"First-pass clustering: estimated={est_speakers}, over-counted={n_speakers}")
 
     # --- Similarity matrix ---
     dist_matrix = cosine_distances(X)
@@ -87,20 +123,22 @@ def first_pass_clustering(
     np.fill_diagonal(sim_matrix, 1.0)
     
     # --- Affinity thresholding ---
-    sim_matrix[sim_matrix < affinity_threshold] = 0.0
+    affinity_matrix = sim_matrix.copy()
+    affinity_matrix[affinity_matrix < affinity_threshold] = 0.0
 
-    # --- Estimate number of speakers using eigengap ---
-    est_speakers = estimate_speakers_eigengap(sim_matrix, max_speakers)
-    logger.info(f"Eigengap estimated speakers: {est_speakers}")
+    # --- Estimate number of speakers ---
+    est_speakers = estimate_speakers_eigengap(affinity_matrix, max_speakers, method=estimation_method)
+    logger.info(f"Estimated speakers: {est_speakers} (from {n_segments} segments)")
 
     # --- Spectral clustering ---
     clustering = SpectralClustering(
         n_clusters=est_speakers,
         affinity="precomputed",
         assign_labels="kmeans",
-        random_state=42
+        random_state=42,
+        n_init=10  # Multiple initializations for stability
     )
-    labels = clustering.fit_predict(sim_matrix)
+    labels = clustering.fit_predict(affinity_matrix)
 
     # Filter short segments
     filtered_labels = []
@@ -112,7 +150,7 @@ def first_pass_clustering(
 
     logger.info(
         f"First-pass clustering done. "
-        f"Clusters: {len(np.unique(labels))}, "
+        f"Clusters: {len(np.unique([l for l in labels if l != -1]))}, "
         f"Unassigned: {filtered_labels.count(-1)}"
     )
 
@@ -122,26 +160,19 @@ def first_pass_clustering(
 def recluster_embeddings(
     embeddings,
     first_pass_labels,
-    #distance_threshold=0.5,
-    #similarity_merge_threshold=0.7,
-    distance_threshold=0.3,
-    similarity_merge_threshold=0.9,
-    min_cluster_size=2,
-    max_iterations=3,
+    distance_threshold=0.35,  # Slightly increased for less aggressive merging
+    similarity_merge_threshold=0.85,  # Lower threshold = easier to keep separate
+    min_cluster_size=1,  # Allow smaller clusters (was 2)
+    max_iterations=2,  # Reduce iterations to preserve clusters
 ):
     """
-    Second-pass HAC clustering with iterative refinement.
-
-    Args:
-        embeddings: list of (segment, embedding) pairs
-        first_pass_labels: labels from first-pass clustering
-        distance_threshold: float, HAC merge threshold
-        similarity_merge_threshold: float, min cosine similarity to merge clusters
-        min_cluster_size: int, small clusters below this will be absorbed
-        max_iterations: int, how many refinement passes
-
-    Returns:
-        refined_labels: list of final cluster labels per segment
+    Second-pass HAC clustering with less aggressive merging.
+    
+    Key changes:
+    - Increased distance_threshold to merge less
+    - Lowered similarity_merge_threshold to preserve distinctions
+    - Reduced min_cluster_size to keep small but valid clusters
+    - Fewer iterations to avoid over-merging
     """
 
     if not embeddings:
@@ -181,7 +212,7 @@ def recluster_embeddings(
 
         speaker_embeddings = np.stack(speaker_embeddings)
 
-        # --- HAC merge ---
+        # --- HAC merge (less aggressive) ---
         agg = AgglomerativeClustering(
             n_clusters=None,
             distance_threshold=distance_threshold,
@@ -196,33 +227,46 @@ def recluster_embeddings(
             if lbl != -1:
                 refined_labels[i] = label_mapping[lbl]
 
-        # --- Merge only if similarity is high enough ---
+        # --- Merge ONLY if similarity is very high ---
         sims = cosine_similarity(speaker_embeddings)
         merged = False
         for i in range(len(unique_labels)):
             for j in range(i + 1, len(unique_labels)):
                 if sims[i, j] >= similarity_merge_threshold:
-                    refined_labels[refined_labels == j] = i
-                    merged = True
-        if merged:
-            logger.info("Some clusters merged based on similarity.")
-
-        # --- Absorb tiny clusters ---
+                    # Only merge if both clusters are small OR similarity is extremely high
+                    if (cluster_sizes.get(unique_labels[i], 0) < 5 and 
+                        cluster_sizes.get(unique_labels[j], 0) < 5) or sims[i, j] >= 0.95:
+                        refined_labels[refined_labels == unique_labels[j]] = unique_labels[i]
+                        merged = True
+                        logger.info(f"Merged clusters {unique_labels[i]} and {unique_labels[j]} (sim: {sims[i, j]:.3f})")
+        
+        # --- Handle tiny clusters more carefully ---
         for lbl in np.unique(refined_labels):
+            if lbl == -1:
+                continue
             idxs = np.where(refined_labels == lbl)[0]
             if len(idxs) < min_cluster_size:
                 emb = X[idxs].mean(axis=0).reshape(1, -1)
                 sims = cosine_similarity(emb, speaker_embeddings)
-                nearest = np.argmax(sims)
-                refined_labels[idxs] = nearest
-                logger.info(f"Cluster {lbl} absorbed into {nearest} due to small size.")
+                max_sim = np.max(sims)
+                # Only absorb if very similar to another cluster
+                if max_sim >= 0.80:
+                    nearest = np.argmax(sims)
+                    refined_labels[idxs] = unique_labels[nearest]
+                    logger.info(f"Small cluster {lbl} absorbed into {unique_labels[nearest]} (sim: {max_sim:.3f})")
 
         # --- Re-assign unassigned segments ---
+        unassigned_count = 0
         for i, lbl in enumerate(refined_labels):
             if lbl == -1:
                 emb = X[i].reshape(1, -1)
                 sims = cosine_similarity(emb, speaker_embeddings)
-                refined_labels[i] = np.argmax(sims)
+                refined_labels[i] = unique_labels[np.argmax(sims)]
+                unassigned_count += 1
+        
+        if unassigned_count > 0:
+            logger.info(f"Re-assigned {unassigned_count} unassigned segments")
 
-    logger.info(f"Re-clustering done. Final clusters: {len(np.unique(refined_labels))}")
+    final_count = len(np.unique(refined_labels[refined_labels != -1]))
+    logger.info(f"Re-clustering done. Final clusters: {final_count}")
     return refined_labels
