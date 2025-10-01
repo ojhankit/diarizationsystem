@@ -62,7 +62,7 @@ if __name__ == "__main__":
     audio_files = [f for f in os.listdir(audio_dir) if f.endswith(".wav")]
     all_embeddings = {}
 
-    for audio_file in audio_files[:1]:
+    for audio_file in audio_files[:]:
         audio_path = os.path.join(audio_dir, audio_file)
         rttm_file = os.path.join(vad_dir, audio_file.replace(".wav", ".rttm"))
         if not os.path.exists(rttm_file):
@@ -72,6 +72,7 @@ if __name__ == "__main__":
         segments = read_rttm_segments(rttm_file)
         embeddings = extract_ecapa_embeddings(audio_path, segments)
         all_embeddings[audio_file] = embeddings
-        print(all_embeddings[audio_file])
+        # print(f"{audio_file} : {all_embeddings[audio_file]}")
+        with open("ecapa-embeddings.txt","a") as file:
+            file.write(f"{audio_file} - {all_embeddings[audio_file]}")
         print(f"Extracted {len(embeddings)} embeddings for {audio_file}")
-    

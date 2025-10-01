@@ -15,7 +15,7 @@ def fix_rttm_filenames(rttm_dir):
         return
     
     # Find RTTM files
-    rttm_files = [f for f in files if f.endswith("_diarization.rttm")]
+    rttm_files = [f for f in files if f.endswith(".rttm")]
     if not rttm_files:
         print(f"❌ No files ending with '_diarization.rttm' found in '{rttm_dir}'")
         print(f"Files found: {files}")
@@ -46,10 +46,10 @@ def fix_rttm_filenames(rttm_dir):
 
 # Try different possible paths
 possible_paths = [
-    "./scripts/after_clustering",
-    "../scripts/after_clustering", 
-    "./after_clustering",
-    "/home/yagya/research_speakerdiarization/scripts/after_clustering"
+    "./scripts/after_clustering_v2",
+    "../scripts/after_clustering_v2", 
+    "./after_clustering_v2",
+    "/home/yagya/research_speakerdiarization/scripts/after_clustering_v2"
 ]
 
 print("Checking possible paths...")

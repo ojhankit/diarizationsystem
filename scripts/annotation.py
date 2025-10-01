@@ -17,6 +17,6 @@ def build_annotation(embeddings, labels):
         if label == -1:  # skip unassigned
             continue
         # Add speaker label (e.g., SPEAKER_0, SPEAKER_1, ...)
-        annotation[segment] = f"SPEAKER_{label}"
+        annotation[segment] = f"spk{label}"
 
     return annotation

@@ -3,7 +3,11 @@ import numpy as np
 from pyannote.audio import Model, Inference
 from pyannote.core import Annotation, Segment
 from config import HF_ACCESS_TOKEN, logger
-
+# --------------------------
+# Detect GPU
+# --------------------------
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+logger.info(f"Using device: {device}")
 # --------------------------
 # Load embedding model
 # --------------------------
@@ -11,9 +15,9 @@ logger.info("Loading embedding model 'pyannote/embedding'...")
 embedding_model = Model.from_pretrained(
     "pyannote/embedding",
     use_auth_token=HF_ACCESS_TOKEN
-)
+).to(device)
 #inference = Inference(embedding_model, window="whole")
-inference = Inference(embedding_model, window="sliding",duration=2.0,step=1.0)
+inference = Inference(embedding_model, window="sliding",duration=2.0,step=1.0,device=device)
 logger.info("Embedding model loaded.")
 
 # --------------------------
@@ -84,6 +88,7 @@ def extract_embeddings(vad_result: Annotation, audio_file: str):
     #MAX_SEG_DURATION = 3.0      # Maximum chunk size
     MIN_SEG_DURATION = 2.0
     MAX_SEG_DURATION = 8.0
+    #MAX_SEG_DURATION = 10.0
     logger.info(f"Processing {len(list(vad_result.itersegments()))} segments from VAD")
 
     for idx, (segment, _, _) in enumerate(vad_result.itertracks(yield_label=True), 1):

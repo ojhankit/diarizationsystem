@@ -1,0 +1,3604 @@
+Found 448 VAD output files
+================================================================================
+
+File: abjxc.rttm (ID: abjxc)
+  Reference Speech Duration: 62.60s
+  VAD Speech Duration: 62.56s
+  Correct Detection: 62.53s
+  False Alarm: 0.03s (0.05%)
+  Missed Speech: 0.07s (0.12%)
+  VAD Error Rate: 0.17%
+
+File: aepyx.rttm (ID: aepyx)
+  Reference Speech Duration: 144.90s
+  VAD Speech Duration: 151.43s
+  Correct Detection: 143.03s
+  False Alarm: 8.40s (5.80%)
+  Missed Speech: 1.87s (1.29%)
+  VAD Error Rate: 7.08%
+
+File: afjiv.rttm (ID: afjiv)
+  Reference Speech Duration: 123.64s
+  VAD Speech Duration: 123.54s
+  Correct Detection: 121.75s
+  False Alarm: 1.78s (1.44%)
+  Missed Speech: 1.89s (1.53%)
+  VAD Error Rate: 2.97%
+
+File: aggyz.rttm (ID: aggyz)
+  Reference Speech Duration: 247.22s
+  VAD Speech Duration: 253.46s
+  Correct Detection: 246.51s
+  False Alarm: 6.95s (2.81%)
+  Missed Speech: 0.71s (0.29%)
+  VAD Error Rate: 3.10%
+
+File: ahnss.rttm (ID: ahnss)
+  Reference Speech Duration: 660.48s
+  VAD Speech Duration: 659.22s
+  Correct Detection: 658.72s
+  False Alarm: 0.50s (0.08%)
+  Missed Speech: 1.76s (0.27%)
+  VAD Error Rate: 0.34%
+
+File: aiqwk.rttm (ID: aiqwk)
+  Reference Speech Duration: 175.51s
+  VAD Speech Duration: 189.25s
+  Correct Detection: 174.45s
+  False Alarm: 14.80s (8.43%)
+  Missed Speech: 1.06s (0.61%)
+  VAD Error Rate: 9.04%
+
+File: aisvi.rttm (ID: aisvi)
+  Reference Speech Duration: 441.68s
+  VAD Speech Duration: 443.17s
+  Correct Detection: 439.61s
+  False Alarm: 3.56s (0.81%)
+  Missed Speech: 2.07s (0.47%)
+  VAD Error Rate: 1.28%
+
+File: akthc.rttm (ID: akthc)
+  Reference Speech Duration: 105.16s
+  VAD Speech Duration: 106.13s
+  Correct Detection: 104.45s
+  False Alarm: 1.67s (1.59%)
+  Missed Speech: 0.71s (0.67%)
+  VAD Error Rate: 2.26%
+
+File: ampme.rttm (ID: ampme)
+  Reference Speech Duration: 137.12s
+  VAD Speech Duration: 136.74s
+  Correct Detection: 136.05s
+  False Alarm: 0.69s (0.51%)
+  Missed Speech: 1.07s (0.78%)
+  VAD Error Rate: 1.29%
+
+File: aorju.rttm (ID: aorju)
+  Reference Speech Duration: 1068.93s
+  VAD Speech Duration: 1096.39s
+  Correct Detection: 1050.63s
+  False Alarm: 45.75s (4.28%)
+  Missed Speech: 18.30s (1.71%)
+  VAD Error Rate: 5.99%
+
+File: asxwr.rttm (ID: asxwr)
+  Reference Speech Duration: 235.92s
+  VAD Speech Duration: 236.14s
+  Correct Detection: 235.69s
+  False Alarm: 0.45s (0.19%)
+  Missed Speech: 0.23s (0.10%)
+  VAD Error Rate: 0.29%
+
+File: atgpi.rttm (ID: atgpi)
+  Reference Speech Duration: 119.84s
+  VAD Speech Duration: 120.46s
+  Correct Detection: 119.77s
+  False Alarm: 0.69s (0.58%)
+  Missed Speech: 0.07s (0.06%)
+  VAD Error Rate: 0.64%
+
+File: aufkn.rttm (ID: aufkn)
+  Reference Speech Duration: 176.60s
+  VAD Speech Duration: 177.15s
+  Correct Detection: 176.20s
+  False Alarm: 0.95s (0.54%)
+  Missed Speech: 0.40s (0.23%)
+  VAD Error Rate: 0.77%
+
+File: auzru.rttm (ID: auzru)
+  Reference Speech Duration: 505.74s
+  VAD Speech Duration: 509.73s
+  Correct Detection: 505.15s
+  False Alarm: 4.57s (0.90%)
+  Missed Speech: 0.59s (0.12%)
+  VAD Error Rate: 1.02%
+
+File: azisu.rttm (ID: azisu)
+  Reference Speech Duration: 193.08s
+  VAD Speech Duration: 193.28s
+  Correct Detection: 192.94s
+  False Alarm: 0.34s (0.18%)
+  Missed Speech: 0.14s (0.07%)
+  VAD Error Rate: 0.25%
+
+File: bauzd.rttm (ID: bauzd)
+  Reference Speech Duration: 459.88s
+  VAD Speech Duration: 464.98s
+  Correct Detection: 458.38s
+  False Alarm: 6.60s (1.44%)
+  Missed Speech: 1.50s (0.33%)
+  VAD Error Rate: 1.76%
+
+File: bdopb.rttm (ID: bdopb)
+  Reference Speech Duration: 889.36s
+  VAD Speech Duration: 891.66s
+  Correct Detection: 885.85s
+  False Alarm: 5.81s (0.65%)
+  Missed Speech: 3.51s (0.39%)
+  VAD Error Rate: 1.05%
+
+File: bgvvt.rttm (ID: bgvvt)
+  Reference Speech Duration: 1001.33s
+  VAD Speech Duration: 1045.58s
+  Correct Detection: 974.28s
+  False Alarm: 71.30s (7.12%)
+  Missed Speech: 27.05s (2.70%)
+  VAD Error Rate: 9.82%
+
+File: bidnq.rttm (ID: bidnq)
+  Reference Speech Duration: 996.39s
+  VAD Speech Duration: 1012.34s
+  Correct Detection: 985.67s
+  False Alarm: 26.67s (2.68%)
+  Missed Speech: 10.72s (1.08%)
+  VAD Error Rate: 3.75%
+
+File: bjruf.rttm (ID: bjruf)
+  Reference Speech Duration: 328.47s
+  VAD Speech Duration: 321.62s
+  Correct Detection: 311.69s
+  False Alarm: 9.93s (3.02%)
+  Missed Speech: 16.78s (5.11%)
+  VAD Error Rate: 8.13%
+
+File: bkwns.rttm (ID: bkwns)
+  Reference Speech Duration: 48.60s
+  VAD Speech Duration: 48.87s
+  Correct Detection: 48.57s
+  False Alarm: 0.30s (0.63%)
+  Missed Speech: 0.03s (0.06%)
+  VAD Error Rate: 0.69%
+
+File: blwmj.rttm (ID: blwmj)
+  Reference Speech Duration: 253.84s
+  VAD Speech Duration: 255.12s
+  Correct Detection: 253.50s
+  False Alarm: 1.62s (0.64%)
+  Missed Speech: 0.34s (0.14%)
+  VAD Error Rate: 0.77%
+
+File: bmsyn.rttm (ID: bmsyn)
+  Reference Speech Duration: 552.32s
+  VAD Speech Duration: 609.62s
+  Correct Detection: 535.58s
+  False Alarm: 74.04s (13.41%)
+  Missed Speech: 16.74s (3.03%)
+  VAD Error Rate: 16.44%
+
+File: bpzsc.rttm (ID: bpzsc)
+  Reference Speech Duration: 999.12s
+  VAD Speech Duration: 1015.14s
+  Correct Detection: 992.77s
+  False Alarm: 22.36s (2.24%)
+  Missed Speech: 6.35s (0.64%)
+  VAD Error Rate: 2.87%
+
+File: bravd.rttm (ID: bravd)
+  Reference Speech Duration: 386.44s
+  VAD Speech Duration: 388.21s
+  Correct Detection: 385.84s
+  False Alarm: 2.37s (0.61%)
+  Missed Speech: 0.60s (0.16%)
+  VAD Error Rate: 0.77%
+
+File: bspxd.rttm (ID: bspxd)
+  Reference Speech Duration: 325.56s
+  VAD Speech Duration: 325.38s
+  Correct Detection: 323.85s
+  False Alarm: 1.53s (0.47%)
+  Missed Speech: 1.71s (0.53%)
+  VAD Error Rate: 1.00%
+
+File: bvqnu.rttm (ID: bvqnu)
+  Reference Speech Duration: 538.30s
+  VAD Speech Duration: 549.13s
+  Correct Detection: 536.25s
+  False Alarm: 12.88s (2.39%)
+  Missed Speech: 2.06s (0.38%)
+  VAD Error Rate: 2.77%
+
+File: bvyvm.rttm (ID: bvyvm)
+  Reference Speech Duration: 105.16s
+  VAD Speech Duration: 105.79s
+  Correct Detection: 102.59s
+  False Alarm: 3.19s (3.04%)
+  Missed Speech: 2.57s (2.44%)
+  VAD Error Rate: 5.48%
+
+File: bwzyf.rttm (ID: bwzyf)
+  Reference Speech Duration: 68.24s
+  VAD Speech Duration: 69.08s
+  Correct Detection: 68.03s
+  False Alarm: 1.05s (1.54%)
+  Missed Speech: 0.21s (0.31%)
+  VAD Error Rate: 1.84%
+
+File: bxcfq.rttm (ID: bxcfq)
+  Reference Speech Duration: 196.33s
+  VAD Speech Duration: 196.18s
+  Correct Detection: 196.03s
+  False Alarm: 0.15s (0.07%)
+  Missed Speech: 0.30s (0.15%)
+  VAD Error Rate: 0.23%
+
+File: bxpwa.rttm (ID: bxpwa)
+  Reference Speech Duration: 404.72s
+  VAD Speech Duration: 403.86s
+  Correct Detection: 402.70s
+  False Alarm: 1.16s (0.29%)
+  Missed Speech: 2.02s (0.50%)
+  VAD Error Rate: 0.79%
+
+File: byapz.rttm (ID: byapz)
+  Reference Speech Duration: 417.66s
+  VAD Speech Duration: 423.14s
+  Correct Detection: 409.86s
+  False Alarm: 13.28s (3.18%)
+  Missed Speech: 7.80s (1.87%)
+  VAD Error Rate: 5.05%
+
+File: bydui.rttm (ID: bydui)
+  Reference Speech Duration: 278.52s
+  VAD Speech Duration: 279.44s
+  Correct Detection: 278.25s
+  False Alarm: 1.19s (0.43%)
+  Missed Speech: 0.27s (0.10%)
+  VAD Error Rate: 0.52%
+
+File: cadba.rttm (ID: cadba)
+  Reference Speech Duration: 171.97s
+  VAD Speech Duration: 175.46s
+  Correct Detection: 171.45s
+  False Alarm: 4.01s (2.33%)
+  Missed Speech: 0.52s (0.30%)
+  VAD Error Rate: 2.64%
+
+File: cawnd.rttm (ID: cawnd)
+  Reference Speech Duration: 1140.08s
+  VAD Speech Duration: 1139.52s
+  Correct Detection: 1122.05s
+  False Alarm: 17.47s (1.53%)
+  Missed Speech: 18.03s (1.58%)
+  VAD Error Rate: 3.11%
+
+File: ccokr.rttm (ID: ccokr)
+  Reference Speech Duration: 188.76s
+  VAD Speech Duration: 189.33s
+  Correct Detection: 187.76s
+  False Alarm: 1.58s (0.83%)
+  Missed Speech: 1.00s (0.53%)
+  VAD Error Rate: 1.37%
+
+File: cjfer.rttm (ID: cjfer)
+  Reference Speech Duration: 606.48s
+  VAD Speech Duration: 609.25s
+  Correct Detection: 604.43s
+  False Alarm: 4.82s (0.79%)
+  Missed Speech: 2.05s (0.34%)
+  VAD Error Rate: 1.13%
+
+File: clfcg.rttm (ID: clfcg)
+  Reference Speech Duration: 273.95s
+  VAD Speech Duration: 283.19s
+  Correct Detection: 268.16s
+  False Alarm: 15.03s (5.49%)
+  Missed Speech: 5.79s (2.11%)
+  VAD Error Rate: 7.60%
+
+File: cmfyw.rttm (ID: cmfyw)
+  Reference Speech Duration: 462.08s
+  VAD Speech Duration: 461.21s
+  Correct Detection: 459.97s
+  False Alarm: 1.25s (0.27%)
+  Missed Speech: 2.11s (0.46%)
+  VAD Error Rate: 0.73%
+
+File: cmhsm.rttm (ID: cmhsm)
+  Reference Speech Duration: 582.36s
+  VAD Speech Duration: 583.36s
+  Correct Detection: 581.01s
+  False Alarm: 2.35s (0.40%)
+  Missed Speech: 1.35s (0.23%)
+  VAD Error Rate: 0.64%
+
+File: cobal.rttm (ID: cobal)
+  Reference Speech Duration: 75.68s
+  VAD Speech Duration: 75.89s
+  Correct Detection: 75.67s
+  False Alarm: 0.22s (0.29%)
+  Missed Speech: 0.01s (0.01%)
+  VAD Error Rate: 0.30%
+
+File: cpebh.rttm (ID: cpebh)
+  Reference Speech Duration: 647.66s
+  VAD Speech Duration: 650.34s
+  Correct Detection: 647.55s
+  False Alarm: 2.79s (0.43%)
+  Missed Speech: 0.11s (0.02%)
+  VAD Error Rate: 0.45%
+
+File: cqaec.rttm (ID: cqaec)
+  Reference Speech Duration: 203.88s
+  VAD Speech Duration: 203.67s
+  Correct Detection: 200.57s
+  False Alarm: 3.09s (1.52%)
+  Missed Speech: 3.31s (1.62%)
+  VAD Error Rate: 3.14%
+
+File: cqfmj.rttm (ID: cqfmj)
+  Reference Speech Duration: 103.53s
+  VAD Speech Duration: 103.33s
+  Correct Detection: 100.75s
+  False Alarm: 2.57s (2.49%)
+  Missed Speech: 2.78s (2.68%)
+  VAD Error Rate: 5.17%
+
+File: crixb.rttm (ID: crixb)
+  Reference Speech Duration: 281.48s
+  VAD Speech Duration: 283.60s
+  Correct Detection: 280.25s
+  False Alarm: 3.35s (1.19%)
+  Missed Speech: 1.23s (0.44%)
+  VAD Error Rate: 1.63%
+
+File: crorm.rttm (ID: crorm)
+  Reference Speech Duration: 870.48s
+  VAD Speech Duration: 867.82s
+  Correct Detection: 854.89s
+  False Alarm: 12.93s (1.48%)
+  Missed Speech: 15.59s (1.79%)
+  VAD Error Rate: 3.28%
+
+File: crylr.rttm (ID: crylr)
+  Reference Speech Duration: 153.56s
+  VAD Speech Duration: 157.75s
+  Correct Detection: 148.77s
+  False Alarm: 8.98s (5.85%)
+  Missed Speech: 4.79s (3.12%)
+  VAD Error Rate: 8.97%
+
+File: cvofp.rttm (ID: cvofp)
+  Reference Speech Duration: 1090.85s
+  VAD Speech Duration: 1133.92s
+  Correct Detection: 1079.65s
+  False Alarm: 54.27s (4.97%)
+  Missed Speech: 11.19s (1.03%)
+  VAD Error Rate: 6.00%
+
+File: cwbvu.rttm (ID: cwbvu)
+  Reference Speech Duration: 117.19s
+  VAD Speech Duration: 118.36s
+  Correct Detection: 116.21s
+  False Alarm: 2.16s (1.84%)
+  Missed Speech: 0.98s (0.84%)
+  VAD Error Rate: 2.68%
+
+File: cwryz.rttm (ID: cwryz)
+  Reference Speech Duration: 147.56s
+  VAD Speech Duration: 147.42s
+  Correct Detection: 146.86s
+  False Alarm: 0.56s (0.38%)
+  Missed Speech: 0.70s (0.47%)
+  VAD Error Rate: 0.85%
+
+File: cyyxp.rttm (ID: cyyxp)
+  Reference Speech Duration: 141.40s
+  VAD Speech Duration: 142.63s
+  Correct Detection: 139.78s
+  False Alarm: 2.85s (2.01%)
+  Missed Speech: 1.62s (1.15%)
+  VAD Error Rate: 3.16%
+
+File: czlvt.rttm (ID: czlvt)
+  Reference Speech Duration: 935.48s
+  VAD Speech Duration: 935.94s
+  Correct Detection: 933.65s
+  False Alarm: 2.29s (0.24%)
+  Missed Speech: 1.83s (0.20%)
+  VAD Error Rate: 0.44%
+
+File: dbugl.rttm (ID: dbugl)
+  Reference Speech Duration: 784.72s
+  VAD Speech Duration: 786.54s
+  Correct Detection: 783.49s
+  False Alarm: 3.05s (0.39%)
+  Missed Speech: 1.23s (0.16%)
+  VAD Error Rate: 0.55%
+
+File: dgvwu.rttm (ID: dgvwu)
+  Reference Speech Duration: 741.20s
+  VAD Speech Duration: 747.17s
+  Correct Detection: 726.76s
+  False Alarm: 20.41s (2.75%)
+  Missed Speech: 14.44s (1.95%)
+  VAD Error Rate: 4.70%
+
+File: dhorc.rttm (ID: dhorc)
+  Reference Speech Duration: 286.24s
+  VAD Speech Duration: 286.06s
+  Correct Detection: 284.62s
+  False Alarm: 1.44s (0.50%)
+  Missed Speech: 1.62s (0.57%)
+  VAD Error Rate: 1.07%
+
+File: diysk.rttm (ID: diysk)
+  Reference Speech Duration: 1032.16s
+  VAD Speech Duration: 1112.56s
+  Correct Detection: 1019.06s
+  False Alarm: 93.50s (9.06%)
+  Missed Speech: 13.10s (1.27%)
+  VAD Error Rate: 10.33%
+
+File: djngn.rttm (ID: djngn)
+  Reference Speech Duration: 164.88s
+  VAD Speech Duration: 165.31s
+  Correct Detection: 164.37s
+  False Alarm: 0.94s (0.57%)
+  Missed Speech: 0.51s (0.31%)
+  VAD Error Rate: 0.88%
+
+File: djqif.rttm (ID: djqif)
+  Reference Speech Duration: 448.76s
+  VAD Speech Duration: 448.22s
+  Correct Detection: 446.26s
+  False Alarm: 1.96s (0.44%)
+  Missed Speech: 2.50s (0.56%)
+  VAD Error Rate: 0.99%
+
+File: dkabn.rttm (ID: dkabn)
+  Reference Speech Duration: 1055.70s
+  VAD Speech Duration: 1019.93s
+  Correct Detection: 999.18s
+  False Alarm: 20.75s (1.97%)
+  Missed Speech: 56.52s (5.35%)
+  VAD Error Rate: 7.32%
+
+File: dlast.rttm (ID: dlast)
+  Reference Speech Duration: 1106.99s
+  VAD Speech Duration: 1104.54s
+  Correct Detection: 1094.44s
+  False Alarm: 10.10s (0.91%)
+  Missed Speech: 12.55s (1.13%)
+  VAD Error Rate: 2.05%
+
+File: dohag.rttm (ID: dohag)
+  Reference Speech Duration: 39.62s
+  VAD Speech Duration: 39.95s
+  Correct Detection: 39.40s
+  False Alarm: 0.55s (1.38%)
+  Missed Speech: 0.22s (0.55%)
+  VAD Error Rate: 1.94%
+
+File: dscgs.rttm (ID: dscgs)
+  Reference Speech Duration: 200.28s
+  VAD Speech Duration: 201.79s
+  Correct Detection: 199.74s
+  False Alarm: 2.06s (1.03%)
+  Missed Speech: 0.54s (0.27%)
+  VAD Error Rate: 1.30%
+
+File: duvox.rttm (ID: duvox)
+  Reference Speech Duration: 895.02s
+  VAD Speech Duration: 902.76s
+  Correct Detection: 881.82s
+  False Alarm: 20.94s (2.34%)
+  Missed Speech: 13.20s (1.48%)
+  VAD Error Rate: 3.82%
+
+File: dvngl.rttm (ID: dvngl)
+  Reference Speech Duration: 422.60s
+  VAD Speech Duration: 422.85s
+  Correct Detection: 421.15s
+  False Alarm: 1.70s (0.40%)
+  Missed Speech: 1.45s (0.34%)
+  VAD Error Rate: 0.74%
+
+File: dxbbt.rttm (ID: dxbbt)
+  Reference Speech Duration: 649.11s
+  VAD Speech Duration: 666.21s
+  Correct Detection: 648.40s
+  False Alarm: 17.81s (2.74%)
+  Missed Speech: 0.71s (0.11%)
+  VAD Error Rate: 2.85%
+
+File: dxokr.rttm (ID: dxokr)
+  Reference Speech Duration: 176.48s
+  VAD Speech Duration: 179.76s
+  Correct Detection: 176.31s
+  False Alarm: 3.45s (1.95%)
+  Missed Speech: 0.17s (0.09%)
+  VAD Error Rate: 2.05%
+
+File: dzsef.rttm (ID: dzsef)
+  Reference Speech Duration: 161.68s
+  VAD Speech Duration: 161.59s
+  Correct Detection: 161.52s
+  False Alarm: 0.07s (0.04%)
+  Missed Speech: 0.16s (0.10%)
+  VAD Error Rate: 0.14%
+
+File: dzxut.rttm (ID: dzxut)
+  Reference Speech Duration: 156.53s
+  VAD Speech Duration: 171.01s
+  Correct Detection: 156.24s
+  False Alarm: 14.77s (9.43%)
+  Missed Speech: 0.29s (0.19%)
+  VAD Error Rate: 9.62%
+
+File: eapdk.rttm (ID: eapdk)
+  Reference Speech Duration: 537.08s
+  VAD Speech Duration: 537.39s
+  Correct Detection: 535.69s
+  False Alarm: 1.70s (0.32%)
+  Missed Speech: 1.39s (0.26%)
+  VAD Error Rate: 0.58%
+
+File: eauve.rttm (ID: eauve)
+  Reference Speech Duration: 1118.96s
+  VAD Speech Duration: 1139.59s
+  Correct Detection: 1118.21s
+  False Alarm: 21.38s (1.91%)
+  Missed Speech: 0.75s (0.07%)
+  VAD Error Rate: 1.98%
+
+File: eazeq.rttm (ID: eazeq)
+  Reference Speech Duration: 93.45s
+  VAD Speech Duration: 95.05s
+  Correct Detection: 92.92s
+  False Alarm: 2.13s (2.28%)
+  Missed Speech: 0.53s (0.57%)
+  VAD Error Rate: 2.84%
+
+File: eddje.rttm (ID: eddje)
+  Reference Speech Duration: 420.47s
+  VAD Speech Duration: 423.45s
+  Correct Detection: 418.65s
+  False Alarm: 4.80s (1.14%)
+  Missed Speech: 1.82s (0.43%)
+  VAD Error Rate: 1.57%
+
+File: edixl.rttm (ID: edixl)
+  Reference Speech Duration: 306.40s
+  VAD Speech Duration: 306.93s
+  Correct Detection: 305.93s
+  False Alarm: 1.00s (0.33%)
+  Missed Speech: 0.47s (0.15%)
+  VAD Error Rate: 0.48%
+
+File: eguui.rttm (ID: eguui)
+  Reference Speech Duration: 97.73s
+  VAD Speech Duration: 99.76s
+  Correct Detection: 97.56s
+  False Alarm: 2.20s (2.25%)
+  Missed Speech: 0.17s (0.17%)
+  VAD Error Rate: 2.43%
+
+File: ehpau.rttm (ID: ehpau)
+  Reference Speech Duration: 145.40s
+  VAD Speech Duration: 146.59s
+  Correct Detection: 144.75s
+  False Alarm: 1.84s (1.26%)
+  Missed Speech: 0.65s (0.45%)
+  VAD Error Rate: 1.71%
+
+File: eoyaz.rttm (ID: eoyaz)
+  Reference Speech Duration: 204.86s
+  VAD Speech Duration: 207.52s
+  Correct Detection: 203.89s
+  False Alarm: 3.63s (1.77%)
+  Missed Speech: 0.97s (0.47%)
+  VAD Error Rate: 2.25%
+
+File: epdpg.rttm (ID: epdpg)
+  Reference Speech Duration: 484.64s
+  VAD Speech Duration: 489.04s
+  Correct Detection: 478.37s
+  False Alarm: 10.67s (2.20%)
+  Missed Speech: 6.27s (1.29%)
+  VAD Error Rate: 3.50%
+
+File: epygx.rttm (ID: epygx)
+  Reference Speech Duration: 1032.40s
+  VAD Speech Duration: 1085.91s
+  Correct Detection: 1014.07s
+  False Alarm: 71.84s (6.96%)
+  Missed Speech: 18.33s (1.78%)
+  VAD Error Rate: 8.73%
+
+File: eqsta.rttm (ID: eqsta)
+  Reference Speech Duration: 838.66s
+  VAD Speech Duration: 843.31s
+  Correct Detection: 812.50s
+  False Alarm: 30.81s (3.67%)
+  Missed Speech: 26.16s (3.12%)
+  VAD Error Rate: 6.79%
+
+File: eqttu.rttm (ID: eqttu)
+  Reference Speech Duration: 160.72s
+  VAD Speech Duration: 161.11s
+  Correct Detection: 160.72s
+  False Alarm: 0.39s (0.24%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 0.24%
+
+File: erslt.rttm (ID: erslt)
+  Reference Speech Duration: 106.34s
+  VAD Speech Duration: 112.54s
+  Correct Detection: 105.48s
+  False Alarm: 7.07s (6.64%)
+  Missed Speech: 0.86s (0.81%)
+  VAD Error Rate: 7.46%
+
+File: esrit.rttm (ID: esrit)
+  Reference Speech Duration: 203.00s
+  VAD Speech Duration: 204.27s
+  Correct Detection: 202.16s
+  False Alarm: 2.11s (1.04%)
+  Missed Speech: 0.84s (0.42%)
+  VAD Error Rate: 1.46%
+
+File: eucfa.rttm (ID: eucfa)
+  Reference Speech Duration: 78.02s
+  VAD Speech Duration: 79.80s
+  Correct Detection: 77.95s
+  False Alarm: 1.84s (2.36%)
+  Missed Speech: 0.07s (0.09%)
+  VAD Error Rate: 2.45%
+
+File: euqef.rttm (ID: euqef)
+  Reference Speech Duration: 25.25s
+  VAD Speech Duration: 25.05s
+  Correct Detection: 24.74s
+  False Alarm: 0.32s (1.25%)
+  Missed Speech: 0.51s (2.04%)
+  VAD Error Rate: 3.28%
+
+File: evtyi.rttm (ID: evtyi)
+  Reference Speech Duration: 610.48s
+  VAD Speech Duration: 615.93s
+  Correct Detection: 597.81s
+  False Alarm: 18.12s (2.97%)
+  Missed Speech: 12.67s (2.08%)
+  VAD Error Rate: 5.04%
+
+File: exymw.rttm (ID: exymw)
+  Reference Speech Duration: 86.80s
+  VAD Speech Duration: 88.00s
+  Correct Detection: 86.52s
+  False Alarm: 1.48s (1.71%)
+  Missed Speech: 0.28s (0.32%)
+  VAD Error Rate: 2.02%
+
+File: eziem.rttm (ID: eziem)
+  Reference Speech Duration: 157.40s
+  VAD Speech Duration: 157.07s
+  Correct Detection: 156.82s
+  False Alarm: 0.25s (0.16%)
+  Missed Speech: 0.58s (0.37%)
+  VAD Error Rate: 0.53%
+
+File: ezsgk.rttm (ID: ezsgk)
+  Reference Speech Duration: 201.52s
+  VAD Speech Duration: 202.25s
+  Correct Detection: 201.07s
+  False Alarm: 1.18s (0.59%)
+  Missed Speech: 0.45s (0.22%)
+  VAD Error Rate: 0.81%
+
+File: ezxso.rttm (ID: ezxso)
+  Reference Speech Duration: 257.00s
+  VAD Speech Duration: 267.53s
+  Correct Detection: 256.88s
+  False Alarm: 10.64s (4.14%)
+  Missed Speech: 0.12s (0.05%)
+  VAD Error Rate: 4.19%
+
+File: falxo.rttm (ID: falxo)
+  Reference Speech Duration: 379.32s
+  VAD Speech Duration: 383.02s
+  Correct Detection: 376.03s
+  False Alarm: 6.99s (1.84%)
+  Missed Speech: 3.29s (0.87%)
+  VAD Error Rate: 2.71%
+
+File: femmv.rttm (ID: femmv)
+  Reference Speech Duration: 165.72s
+  VAD Speech Duration: 167.08s
+  Correct Detection: 165.00s
+  False Alarm: 2.08s (1.25%)
+  Missed Speech: 0.72s (0.43%)
+  VAD Error Rate: 1.69%
+
+File: fijfi.rttm (ID: fijfi)
+  Reference Speech Duration: 806.66s
+  VAD Speech Duration: 842.51s
+  Correct Detection: 799.16s
+  False Alarm: 43.35s (5.37%)
+  Missed Speech: 7.50s (0.93%)
+  VAD Error Rate: 6.30%
+
+File: fkvvo.rttm (ID: fkvvo)
+  Reference Speech Duration: 518.60s
+  VAD Speech Duration: 521.15s
+  Correct Detection: 517.59s
+  False Alarm: 3.56s (0.69%)
+  Missed Speech: 1.01s (0.20%)
+  VAD Error Rate: 0.88%
+
+File: fowhl.rttm (ID: fowhl)
+  Reference Speech Duration: 793.09s
+  VAD Speech Duration: 831.89s
+  Correct Detection: 788.03s
+  False Alarm: 43.86s (5.53%)
+  Missed Speech: 5.06s (0.64%)
+  VAD Error Rate: 6.17%
+
+File: fpfvy.rttm (ID: fpfvy)
+  Reference Speech Duration: 114.02s
+  VAD Speech Duration: 117.39s
+  Correct Detection: 112.92s
+  False Alarm: 4.47s (3.92%)
+  Missed Speech: 1.10s (0.97%)
+  VAD Error Rate: 4.89%
+
+File: fqrnu.rttm (ID: fqrnu)
+  Reference Speech Duration: 162.66s
+  VAD Speech Duration: 161.84s
+  Correct Detection: 157.92s
+  False Alarm: 3.92s (2.41%)
+  Missed Speech: 4.74s (2.91%)
+  VAD Error Rate: 5.33%
+
+File: fsaal.rttm (ID: fsaal)
+  Reference Speech Duration: 189.48s
+  VAD Speech Duration: 190.49s
+  Correct Detection: 189.25s
+  False Alarm: 1.24s (0.66%)
+  Missed Speech: 0.23s (0.12%)
+  VAD Error Rate: 0.78%
+
+File: fuzfh.rttm (ID: fuzfh)
+  Reference Speech Duration: 24.95s
+  VAD Speech Duration: 25.44s
+  Correct Detection: 24.33s
+  False Alarm: 1.11s (4.45%)
+  Missed Speech: 0.62s (2.47%)
+  VAD Error Rate: 6.92%
+
+File: fvhrk.rttm (ID: fvhrk)
+  Reference Speech Duration: 1125.74s
+  VAD Speech Duration: 1144.85s
+  Correct Detection: 1110.46s
+  False Alarm: 34.39s (3.05%)
+  Missed Speech: 15.28s (1.36%)
+  VAD Error Rate: 4.41%
+
+File: fvyvb.rttm (ID: fvyvb)
+  Reference Speech Duration: 738.32s
+  VAD Speech Duration: 741.52s
+  Correct Detection: 736.05s
+  False Alarm: 5.47s (0.74%)
+  Missed Speech: 2.27s (0.31%)
+  VAD Error Rate: 1.05%
+
+File: fxgvy.rttm (ID: fxgvy)
+  Reference Speech Duration: 52.00s
+  VAD Speech Duration: 52.05s
+  Correct Detection: 52.00s
+  False Alarm: 0.05s (0.09%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 0.09%
+
+File: fxnwf.rttm (ID: fxnwf)
+  Reference Speech Duration: 314.51s
+  VAD Speech Duration: 342.81s
+  Correct Detection: 304.57s
+  False Alarm: 38.24s (12.16%)
+  Missed Speech: 9.94s (3.16%)
+  VAD Error Rate: 15.32%
+
+File: fyqoe.rttm (ID: fyqoe)
+  Reference Speech Duration: 287.80s
+  VAD Speech Duration: 290.56s
+  Correct Detection: 287.65s
+  False Alarm: 2.91s (1.01%)
+  Missed Speech: 0.15s (0.05%)
+  VAD Error Rate: 1.06%
+
+File: fzwtp.rttm (ID: fzwtp)
+  Reference Speech Duration: 212.42s
+  VAD Speech Duration: 229.88s
+  Correct Detection: 204.96s
+  False Alarm: 24.92s (11.73%)
+  Missed Speech: 7.46s (3.51%)
+  VAD Error Rate: 15.24%
+
+File: gcfwp.rttm (ID: gcfwp)
+  Reference Speech Duration: 256.61s
+  VAD Speech Duration: 306.36s
+  Correct Detection: 254.04s
+  False Alarm: 52.33s (20.39%)
+  Missed Speech: 2.57s (1.00%)
+  VAD Error Rate: 21.40%
+
+File: gcvrb.rttm (ID: gcvrb)
+  Reference Speech Duration: 1085.35s
+  VAD Speech Duration: 1146.52s
+  Correct Detection: 1080.55s
+  False Alarm: 65.97s (6.08%)
+  Missed Speech: 4.80s (0.44%)
+  VAD Error Rate: 6.52%
+
+File: gfneh.rttm (ID: gfneh)
+  Reference Speech Duration: 150.70s
+  VAD Speech Duration: 154.76s
+  Correct Detection: 150.56s
+  False Alarm: 4.20s (2.79%)
+  Missed Speech: 0.14s (0.09%)
+  VAD Error Rate: 2.88%
+
+File: ggvel.rttm (ID: ggvel)
+  Reference Speech Duration: 125.56s
+  VAD Speech Duration: 127.22s
+  Correct Detection: 123.83s
+  False Alarm: 3.39s (2.70%)
+  Missed Speech: 1.73s (1.38%)
+  VAD Error Rate: 4.07%
+
+File: gkiki.rttm (ID: gkiki)
+  Reference Speech Duration: 106.19s
+  VAD Speech Duration: 106.19s
+  Correct Detection: 105.77s
+  False Alarm: 0.43s (0.40%)
+  Missed Speech: 0.42s (0.40%)
+  VAD Error Rate: 0.80%
+
+File: gmmwm.rttm (ID: gmmwm)
+  Reference Speech Duration: 273.86s
+  VAD Speech Duration: 287.22s
+  Correct Detection: 273.19s
+  False Alarm: 14.03s (5.12%)
+  Missed Speech: 0.67s (0.25%)
+  VAD Error Rate: 5.37%
+
+File: gocbm.rttm (ID: gocbm)
+  Reference Speech Duration: 253.32s
+  VAD Speech Duration: 252.49s
+  Correct Detection: 251.44s
+  False Alarm: 1.05s (0.41%)
+  Missed Speech: 1.88s (0.74%)
+  VAD Error Rate: 1.15%
+
+File: gofnj.rttm (ID: gofnj)
+  Reference Speech Duration: 382.56s
+  VAD Speech Duration: 382.00s
+  Correct Detection: 381.12s
+  False Alarm: 0.88s (0.23%)
+  Missed Speech: 1.44s (0.38%)
+  VAD Error Rate: 0.61%
+
+File: goyli.rttm (ID: goyli)
+  Reference Speech Duration: 637.52s
+  VAD Speech Duration: 637.25s
+  Correct Detection: 634.95s
+  False Alarm: 2.30s (0.36%)
+  Missed Speech: 2.57s (0.40%)
+  VAD Error Rate: 0.76%
+
+File: gpjne.rttm (ID: gpjne)
+  Reference Speech Duration: 181.28s
+  VAD Speech Duration: 182.25s
+  Correct Detection: 181.20s
+  False Alarm: 1.05s (0.58%)
+  Missed Speech: 0.08s (0.04%)
+  VAD Error Rate: 0.62%
+
+File: gqbvk.rttm (ID: gqbvk)
+  Reference Speech Duration: 152.12s
+  VAD Speech Duration: 152.89s
+  Correct Detection: 151.37s
+  False Alarm: 1.51s (1.00%)
+  Missed Speech: 0.75s (0.49%)
+  VAD Error Rate: 1.49%
+
+File: gqdxy.rttm (ID: gqdxy)
+  Reference Speech Duration: 349.60s
+  VAD Speech Duration: 348.39s
+  Correct Detection: 346.42s
+  False Alarm: 1.97s (0.56%)
+  Missed Speech: 3.18s (0.91%)
+  VAD Error Rate: 1.47%
+
+File: grzbb.rttm (ID: grzbb)
+  Reference Speech Duration: 432.48s
+  VAD Speech Duration: 431.21s
+  Correct Detection: 428.51s
+  False Alarm: 2.70s (0.62%)
+  Missed Speech: 3.97s (0.92%)
+  VAD Error Rate: 1.54%
+
+File: gtjow.rttm (ID: gtjow)
+  Reference Speech Duration: 1141.83s
+  VAD Speech Duration: 1128.07s
+  Correct Detection: 1116.38s
+  False Alarm: 11.69s (1.02%)
+  Missed Speech: 25.45s (2.23%)
+  VAD Error Rate: 3.25%
+
+File: gtnjb.rttm (ID: gtnjb)
+  Reference Speech Duration: 1186.43s
+  VAD Speech Duration: 1191.43s
+  Correct Detection: 1183.57s
+  False Alarm: 7.86s (0.66%)
+  Missed Speech: 2.86s (0.24%)
+  VAD Error Rate: 0.90%
+
+File: gukoa.rttm (ID: gukoa)
+  Reference Speech Duration: 232.56s
+  VAD Speech Duration: 236.23s
+  Correct Detection: 230.99s
+  False Alarm: 5.24s (2.25%)
+  Missed Speech: 1.57s (0.68%)
+  VAD Error Rate: 2.93%
+
+File: guvqf.rttm (ID: guvqf)
+  Reference Speech Duration: 853.15s
+  VAD Speech Duration: 918.12s
+  Correct Detection: 838.15s
+  False Alarm: 79.97s (9.37%)
+  Missed Speech: 15.00s (1.76%)
+  VAD Error Rate: 11.13%
+
+File: gwloo.rttm (ID: gwloo)
+  Reference Speech Duration: 767.47s
+  VAD Speech Duration: 792.01s
+  Correct Detection: 755.59s
+  False Alarm: 36.42s (4.75%)
+  Missed Speech: 11.88s (1.55%)
+  VAD Error Rate: 6.29%
+
+File: gwtwd.rttm (ID: gwtwd)
+  Reference Speech Duration: 52.32s
+  VAD Speech Duration: 52.10s
+  Correct Detection: 51.92s
+  False Alarm: 0.18s (0.34%)
+  Missed Speech: 0.40s (0.76%)
+  VAD Error Rate: 1.11%
+
+File: gylzn.rttm (ID: gylzn)
+  Reference Speech Duration: 349.84s
+  VAD Speech Duration: 356.59s
+  Correct Detection: 349.33s
+  False Alarm: 7.26s (2.08%)
+  Missed Speech: 0.51s (0.15%)
+  VAD Error Rate: 2.22%
+
+File: gyomp.rttm (ID: gyomp)
+  Reference Speech Duration: 56.85s
+  VAD Speech Duration: 58.96s
+  Correct Detection: 56.69s
+  False Alarm: 2.27s (3.99%)
+  Missed Speech: 0.16s (0.28%)
+  VAD Error Rate: 4.28%
+
+File: gzhwb.rttm (ID: gzhwb)
+  Reference Speech Duration: 836.93s
+  VAD Speech Duration: 847.61s
+  Correct Detection: 801.48s
+  False Alarm: 46.13s (5.51%)
+  Missed Speech: 35.45s (4.24%)
+  VAD Error Rate: 9.75%
+
+File: gzvkx.rttm (ID: gzvkx)
+  Reference Speech Duration: 216.76s
+  VAD Speech Duration: 218.02s
+  Correct Detection: 216.62s
+  False Alarm: 1.40s (0.64%)
+  Missed Speech: 0.14s (0.06%)
+  VAD Error Rate: 0.71%
+
+File: hcyak.rttm (ID: hcyak)
+  Reference Speech Duration: 295.57s
+  VAD Speech Duration: 297.27s
+  Correct Detection: 293.62s
+  False Alarm: 3.65s (1.24%)
+  Missed Speech: 1.95s (0.66%)
+  VAD Error Rate: 1.90%
+
+File: heolf.rttm (ID: heolf)
+  Reference Speech Duration: 1101.27s
+  VAD Speech Duration: 1143.38s
+  Correct Detection: 1092.62s
+  False Alarm: 50.75s (4.61%)
+  Missed Speech: 8.64s (0.79%)
+  VAD Error Rate: 5.39%
+
+File: hgdez.rttm (ID: hgdez)
+  Reference Speech Duration: 889.88s
+  VAD Speech Duration: 888.93s
+  Correct Detection: 880.29s
+  False Alarm: 8.64s (0.97%)
+  Missed Speech: 9.59s (1.08%)
+  VAD Error Rate: 2.05%
+
+File: hgeec.rttm (ID: hgeec)
+  Reference Speech Duration: 422.80s
+  VAD Speech Duration: 422.82s
+  Correct Detection: 422.27s
+  False Alarm: 0.54s (0.13%)
+  Missed Speech: 0.53s (0.12%)
+  VAD Error Rate: 0.25%
+
+File: hhepf.rttm (ID: hhepf)
+  Reference Speech Duration: 1094.42s
+  VAD Speech Duration: 1143.60s
+  Correct Detection: 1090.76s
+  False Alarm: 52.84s (4.83%)
+  Missed Speech: 3.66s (0.33%)
+  VAD Error Rate: 5.16%
+
+File: hiyis.rttm (ID: hiyis)
+  Reference Speech Duration: 85.92s
+  VAD Speech Duration: 86.47s
+  Correct Detection: 85.91s
+  False Alarm: 0.56s (0.65%)
+  Missed Speech: 0.01s (0.01%)
+  VAD Error Rate: 0.66%
+
+File: hkzpa.rttm (ID: hkzpa)
+  Reference Speech Duration: 924.20s
+  VAD Speech Duration: 925.62s
+  Correct Detection: 920.93s
+  False Alarm: 4.68s (0.51%)
+  Missed Speech: 3.27s (0.35%)
+  VAD Error Rate: 0.86%
+
+File: houcx.rttm (ID: houcx)
+  Reference Speech Duration: 279.56s
+  VAD Speech Duration: 281.20s
+  Correct Detection: 277.31s
+  False Alarm: 3.88s (1.39%)
+  Missed Speech: 2.25s (0.80%)
+  VAD Error Rate: 2.19%
+
+File: hqhrb.rttm (ID: hqhrb)
+  Reference Speech Duration: 1052.64s
+  VAD Speech Duration: 1052.41s
+  Correct Detection: 1017.06s
+  False Alarm: 35.35s (3.36%)
+  Missed Speech: 35.58s (3.38%)
+  VAD Error Rate: 6.74%
+
+File: hqyok.rttm (ID: hqyok)
+  Reference Speech Duration: 21.04s
+  VAD Speech Duration: 21.52s
+  Correct Detection: 20.96s
+  False Alarm: 0.56s (2.64%)
+  Missed Speech: 0.08s (0.37%)
+  VAD Error Rate: 3.01%
+
+File: hycgx.rttm (ID: hycgx)
+  Reference Speech Duration: 238.80s
+  VAD Speech Duration: 238.21s
+  Correct Detection: 237.62s
+  False Alarm: 0.59s (0.25%)
+  Missed Speech: 1.18s (0.49%)
+  VAD Error Rate: 0.74%
+
+File: iabca.rttm (ID: iabca)
+  Reference Speech Duration: 152.33s
+  VAD Speech Duration: 154.85s
+  Correct Detection: 147.15s
+  False Alarm: 7.69s (5.05%)
+  Missed Speech: 5.18s (3.40%)
+  VAD Error Rate: 8.45%
+
+File: iacod.rttm (ID: iacod)
+  Reference Speech Duration: 989.69s
+  VAD Speech Duration: 1013.77s
+  Correct Detection: 966.69s
+  False Alarm: 47.08s (4.76%)
+  Missed Speech: 23.00s (2.32%)
+  VAD Error Rate: 7.08%
+
+File: ibrnm.rttm (ID: ibrnm)
+  Reference Speech Duration: 1117.20s
+  VAD Speech Duration: 1148.96s
+  Correct Detection: 1108.15s
+  False Alarm: 40.81s (3.65%)
+  Missed Speech: 9.05s (0.81%)
+  VAD Error Rate: 4.46%
+
+File: ifwki.rttm (ID: ifwki)
+  Reference Speech Duration: 358.33s
+  VAD Speech Duration: 373.96s
+  Correct Detection: 356.18s
+  False Alarm: 17.78s (4.96%)
+  Missed Speech: 2.15s (0.60%)
+  VAD Error Rate: 5.56%
+
+File: iiprr.rttm (ID: iiprr)
+  Reference Speech Duration: 1084.52s
+  VAD Speech Duration: 1152.47s
+  Correct Detection: 1077.68s
+  False Alarm: 74.79s (6.90%)
+  Missed Speech: 6.84s (0.63%)
+  VAD Error Rate: 7.53%
+
+File: ikgcq.rttm (ID: ikgcq)
+  Reference Speech Duration: 106.04s
+  VAD Speech Duration: 105.34s
+  Correct Detection: 103.78s
+  False Alarm: 1.56s (1.47%)
+  Missed Speech: 2.26s (2.13%)
+  VAD Error Rate: 3.60%
+
+File: ikhje.rttm (ID: ikhje)
+  Reference Speech Duration: 822.48s
+  VAD Speech Duration: 832.30s
+  Correct Detection: 817.54s
+  False Alarm: 14.77s (1.80%)
+  Missed Speech: 4.94s (0.60%)
+  VAD Error Rate: 2.40%
+
+File: imbqf.rttm (ID: imbqf)
+  Reference Speech Duration: 338.80s
+  VAD Speech Duration: 339.61s
+  Correct Detection: 337.92s
+  False Alarm: 1.69s (0.50%)
+  Missed Speech: 0.88s (0.26%)
+  VAD Error Rate: 0.76%
+
+File: imtug.rttm (ID: imtug)
+  Reference Speech Duration: 136.36s
+  VAD Speech Duration: 137.83s
+  Correct Detection: 136.05s
+  False Alarm: 1.79s (1.31%)
+  Missed Speech: 0.31s (0.23%)
+  VAD Error Rate: 1.54%
+
+File: ioasm.rttm (ID: ioasm)
+  Reference Speech Duration: 378.80s
+  VAD Speech Duration: 383.35s
+  Correct Detection: 372.16s
+  False Alarm: 11.19s (2.95%)
+  Missed Speech: 6.64s (1.75%)
+  VAD Error Rate: 4.71%
+
+File: iowob.rttm (ID: iowob)
+  Reference Speech Duration: 1121.64s
+  VAD Speech Duration: 1122.46s
+  Correct Detection: 1097.49s
+  False Alarm: 24.97s (2.23%)
+  Missed Speech: 24.15s (2.15%)
+  VAD Error Rate: 4.38%
+
+File: ipqqq.rttm (ID: ipqqq)
+  Reference Speech Duration: 331.76s
+  VAD Speech Duration: 331.54s
+  Correct Detection: 330.41s
+  False Alarm: 1.13s (0.34%)
+  Missed Speech: 1.35s (0.41%)
+  VAD Error Rate: 0.75%
+
+File: iqbww.rttm (ID: iqbww)
+  Reference Speech Duration: 192.00s
+  VAD Speech Duration: 191.74s
+  Correct Detection: 190.12s
+  False Alarm: 1.62s (0.84%)
+  Missed Speech: 1.88s (0.98%)
+  VAD Error Rate: 1.82%
+
+File: iqtde.rttm (ID: iqtde)
+  Reference Speech Duration: 108.92s
+  VAD Speech Duration: 109.42s
+  Correct Detection: 108.83s
+  False Alarm: 0.59s (0.55%)
+  Missed Speech: 0.09s (0.09%)
+  VAD Error Rate: 0.63%
+
+File: irvat.rttm (ID: irvat)
+  Reference Speech Duration: 222.80s
+  VAD Speech Duration: 222.35s
+  Correct Detection: 222.12s
+  False Alarm: 0.23s (0.10%)
+  Missed Speech: 0.68s (0.30%)
+  VAD Error Rate: 0.41%
+
+File: isrps.rttm (ID: isrps)
+  Reference Speech Duration: 157.79s
+  VAD Speech Duration: 157.89s
+  Correct Detection: 155.26s
+  False Alarm: 2.63s (1.67%)
+  Missed Speech: 2.53s (1.60%)
+  VAD Error Rate: 3.27%
+
+File: isxwc.rttm (ID: isxwc)
+  Reference Speech Duration: 123.70s
+  VAD Speech Duration: 126.47s
+  Correct Detection: 123.15s
+  False Alarm: 3.32s (2.69%)
+  Missed Speech: 0.55s (0.45%)
+  VAD Error Rate: 3.13%
+
+File: iwdjy.rttm (ID: iwdjy)
+  Reference Speech Duration: 199.00s
+  VAD Speech Duration: 200.12s
+  Correct Detection: 195.31s
+  False Alarm: 4.81s (2.42%)
+  Missed Speech: 3.69s (1.85%)
+  VAD Error Rate: 4.27%
+
+File: jbowg.rttm (ID: jbowg)
+  Reference Speech Duration: 1133.37s
+  VAD Speech Duration: 1142.92s
+  Correct Detection: 1116.26s
+  False Alarm: 26.66s (2.35%)
+  Missed Speech: 17.11s (1.51%)
+  VAD Error Rate: 3.86%
+
+File: jcako.rttm (ID: jcako)
+  Reference Speech Duration: 888.52s
+  VAD Speech Duration: 892.54s
+  Correct Detection: 877.01s
+  False Alarm: 15.53s (1.75%)
+  Missed Speech: 11.51s (1.30%)
+  VAD Error Rate: 3.04%
+
+File: jdrwl.rttm (ID: jdrwl)
+  Reference Speech Duration: 1183.87s
+  VAD Speech Duration: 1191.35s
+  Correct Detection: 1181.08s
+  False Alarm: 10.27s (0.87%)
+  Missed Speech: 2.79s (0.24%)
+  VAD Error Rate: 1.10%
+
+File: jeymh.rttm (ID: jeymh)
+  Reference Speech Duration: 1120.43s
+  VAD Speech Duration: 1136.67s
+  Correct Detection: 1116.87s
+  False Alarm: 19.80s (1.77%)
+  Missed Speech: 3.56s (0.32%)
+  VAD Error Rate: 2.08%
+
+File: jgiyq.rttm (ID: jgiyq)
+  Reference Speech Duration: 1080.68s
+  VAD Speech Duration: 1097.02s
+  Correct Detection: 1061.11s
+  False Alarm: 35.91s (3.32%)
+  Missed Speech: 19.57s (1.81%)
+  VAD Error Rate: 5.13%
+
+File: jhdav.rttm (ID: jhdav)
+  Reference Speech Duration: 137.96s
+  VAD Speech Duration: 138.06s
+  Correct Detection: 137.24s
+  False Alarm: 0.81s (0.59%)
+  Missed Speech: 0.72s (0.52%)
+  VAD Error Rate: 1.11%
+
+File: jiqvr.rttm (ID: jiqvr)
+  Reference Speech Duration: 75.16s
+  VAD Speech Duration: 76.21s
+  Correct Detection: 74.35s
+  False Alarm: 1.86s (2.48%)
+  Missed Speech: 0.81s (1.08%)
+  VAD Error Rate: 3.56%
+
+File: jjkrt.rttm (ID: jjkrt)
+  Reference Speech Duration: 929.13s
+  VAD Speech Duration: 943.00s
+  Correct Detection: 918.81s
+  False Alarm: 24.19s (2.60%)
+  Missed Speech: 10.32s (1.11%)
+  VAD Error Rate: 3.71%
+
+File: jjvkx.rttm (ID: jjvkx)
+  Reference Speech Duration: 182.91s
+  VAD Speech Duration: 186.21s
+  Correct Detection: 181.90s
+  False Alarm: 4.31s (2.36%)
+  Missed Speech: 1.01s (0.55%)
+  VAD Error Rate: 2.91%
+
+File: jnivh.rttm (ID: jnivh)
+  Reference Speech Duration: 138.40s
+  VAD Speech Duration: 138.29s
+  Correct Detection: 138.18s
+  False Alarm: 0.11s (0.08%)
+  Missed Speech: 0.22s (0.16%)
+  VAD Error Rate: 0.24%
+
+File: jrfaz.rttm (ID: jrfaz)
+  Reference Speech Duration: 1158.01s
+  VAD Speech Duration: 1155.10s
+  Correct Detection: 1146.78s
+  False Alarm: 8.32s (0.72%)
+  Missed Speech: 11.23s (0.97%)
+  VAD Error Rate: 1.69%
+
+File: jsbdo.rttm (ID: jsbdo)
+  Reference Speech Duration: 798.90s
+  VAD Speech Duration: 820.38s
+  Correct Detection: 793.02s
+  False Alarm: 27.36s (3.42%)
+  Missed Speech: 5.88s (0.74%)
+  VAD Error Rate: 4.16%
+
+File: jsdmu.rttm (ID: jsdmu)
+  Reference Speech Duration: 122.84s
+  VAD Speech Duration: 124.03s
+  Correct Detection: 121.84s
+  False Alarm: 2.18s (1.78%)
+  Missed Speech: 1.00s (0.81%)
+  VAD Error Rate: 2.59%
+
+File: jsmbi.rttm (ID: jsmbi)
+  Reference Speech Duration: 104.12s
+  VAD Speech Duration: 105.65s
+  Correct Detection: 103.58s
+  False Alarm: 2.07s (1.99%)
+  Missed Speech: 0.54s (0.52%)
+  VAD Error Rate: 2.50%
+
+File: jsymf.rttm (ID: jsymf)
+  Reference Speech Duration: 946.29s
+  VAD Speech Duration: 966.09s
+  Correct Detection: 930.95s
+  False Alarm: 35.14s (3.71%)
+  Missed Speech: 15.34s (1.62%)
+  VAD Error Rate: 5.33%
+
+File: jtagk.rttm (ID: jtagk)
+  Reference Speech Duration: 250.80s
+  VAD Speech Duration: 253.28s
+  Correct Detection: 247.92s
+  False Alarm: 5.35s (2.13%)
+  Missed Speech: 2.88s (1.15%)
+  VAD Error Rate: 3.28%
+
+File: jttar.rttm (ID: jttar)
+  Reference Speech Duration: 614.36s
+  VAD Speech Duration: 624.18s
+  Correct Detection: 613.03s
+  False Alarm: 11.15s (1.82%)
+  Missed Speech: 1.33s (0.22%)
+  VAD Error Rate: 2.03%
+
+File: jwggf.rttm (ID: jwggf)
+  Reference Speech Duration: 1084.85s
+  VAD Speech Duration: 1075.10s
+  Correct Detection: 1039.50s
+  False Alarm: 35.61s (3.28%)
+  Missed Speech: 45.35s (4.18%)
+  VAD Error Rate: 7.46%
+
+File: jxpom.rttm (ID: jxpom)
+  Reference Speech Duration: 448.67s
+  VAD Speech Duration: 456.83s
+  Correct Detection: 436.33s
+  False Alarm: 20.50s (4.57%)
+  Missed Speech: 12.34s (2.75%)
+  VAD Error Rate: 7.32%
+
+File: jxydp.rttm (ID: jxydp)
+  Reference Speech Duration: 86.00s
+  VAD Speech Duration: 85.82s
+  Correct Detection: 85.82s
+  False Alarm: 0.00s (0.00%)
+  Missed Speech: 0.18s (0.21%)
+  VAD Error Rate: 0.21%
+
+File: jyflp.rttm (ID: jyflp)
+  Reference Speech Duration: 435.12s
+  VAD Speech Duration: 435.34s
+  Correct Detection: 432.87s
+  False Alarm: 2.47s (0.57%)
+  Missed Speech: 2.25s (0.52%)
+  VAD Error Rate: 1.08%
+
+File: jyirt.rttm (ID: jyirt)
+  Reference Speech Duration: 81.44s
+  VAD Speech Duration: 81.30s
+  Correct Detection: 81.08s
+  False Alarm: 0.22s (0.27%)
+  Missed Speech: 0.36s (0.44%)
+  VAD Error Rate: 0.71%
+
+File: jynhe.rttm (ID: jynhe)
+  Reference Speech Duration: 604.24s
+  VAD Speech Duration: 603.79s
+  Correct Detection: 602.55s
+  False Alarm: 1.24s (0.20%)
+  Missed Speech: 1.69s (0.28%)
+  VAD Error Rate: 0.48%
+
+File: jzkzt.rttm (ID: jzkzt)
+  Reference Speech Duration: 1081.07s
+  VAD Speech Duration: 1149.35s
+  Correct Detection: 1075.98s
+  False Alarm: 73.37s (6.79%)
+  Missed Speech: 5.09s (0.47%)
+  VAD Error Rate: 7.26%
+
+File: kajfh.rttm (ID: kajfh)
+  Reference Speech Duration: 777.50s
+  VAD Speech Duration: 827.41s
+  Correct Detection: 769.07s
+  False Alarm: 58.34s (7.50%)
+  Missed Speech: 8.43s (1.08%)
+  VAD Error Rate: 8.59%
+
+File: kbkon.rttm (ID: kbkon)
+  Reference Speech Duration: 118.96s
+  VAD Speech Duration: 119.04s
+  Correct Detection: 118.96s
+  False Alarm: 0.08s (0.07%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 0.07%
+
+File: kckqn.rttm (ID: kckqn)
+  Reference Speech Duration: 342.52s
+  VAD Speech Duration: 343.69s
+  Correct Detection: 342.10s
+  False Alarm: 1.59s (0.46%)
+  Missed Speech: 0.42s (0.12%)
+  VAD Error Rate: 0.59%
+
+File: kctgl.rttm (ID: kctgl)
+  Reference Speech Duration: 102.20s
+  VAD Speech Duration: 102.15s
+  Correct Detection: 101.85s
+  False Alarm: 0.30s (0.29%)
+  Missed Speech: 0.35s (0.34%)
+  VAD Error Rate: 0.63%
+
+File: kdfqk.rttm (ID: kdfqk)
+  Reference Speech Duration: 832.44s
+  VAD Speech Duration: 838.52s
+  Correct Detection: 824.33s
+  False Alarm: 14.19s (1.70%)
+  Missed Speech: 8.11s (0.97%)
+  VAD Error Rate: 2.68%
+
+File: kefgo.rttm (ID: kefgo)
+  Reference Speech Duration: 357.32s
+  VAD Speech Duration: 358.25s
+  Correct Detection: 356.17s
+  False Alarm: 2.07s (0.58%)
+  Missed Speech: 1.15s (0.32%)
+  VAD Error Rate: 0.90%
+
+File: kgjaa.rttm (ID: kgjaa)
+  Reference Speech Duration: 1115.93s
+  VAD Speech Duration: 1119.45s
+  Correct Detection: 1095.44s
+  False Alarm: 24.01s (2.15%)
+  Missed Speech: 20.48s (1.84%)
+  VAD Error Rate: 3.99%
+
+File: kiadt.rttm (ID: kiadt)
+  Reference Speech Duration: 714.88s
+  VAD Speech Duration: 718.23s
+  Correct Detection: 709.37s
+  False Alarm: 8.86s (1.24%)
+  Missed Speech: 5.51s (0.77%)
+  VAD Error Rate: 2.01%
+
+File: kkghn.rttm (ID: kkghn)
+  Reference Speech Duration: 697.52s
+  VAD Speech Duration: 709.74s
+  Correct Detection: 695.25s
+  False Alarm: 14.50s (2.08%)
+  Missed Speech: 2.27s (0.33%)
+  VAD Error Rate: 2.40%
+
+File: kklpv.rttm (ID: kklpv)
+  Reference Speech Duration: 780.08s
+  VAD Speech Duration: 782.90s
+  Correct Detection: 779.09s
+  False Alarm: 3.81s (0.49%)
+  Missed Speech: 0.99s (0.13%)
+  VAD Error Rate: 0.62%
+
+File: kkwkn.rttm (ID: kkwkn)
+  Reference Speech Duration: 460.36s
+  VAD Speech Duration: 461.07s
+  Correct Detection: 459.69s
+  False Alarm: 1.38s (0.30%)
+  Missed Speech: 0.67s (0.14%)
+  VAD Error Rate: 0.44%
+
+File: kmjvh.rttm (ID: kmjvh)
+  Reference Speech Duration: 366.07s
+  VAD Speech Duration: 426.33s
+  Correct Detection: 365.42s
+  False Alarm: 60.91s (16.64%)
+  Missed Speech: 0.65s (0.18%)
+  VAD Error Rate: 16.82%
+
+File: kmunk.rttm (ID: kmunk)
+  Reference Speech Duration: 380.07s
+  VAD Speech Duration: 383.98s
+  Correct Detection: 376.54s
+  False Alarm: 7.44s (1.96%)
+  Missed Speech: 3.53s (0.93%)
+  VAD Error Rate: 2.89%
+
+File: kpjud.rttm (ID: kpjud)
+  Reference Speech Duration: 135.77s
+  VAD Speech Duration: 137.87s
+  Correct Detection: 135.36s
+  False Alarm: 2.51s (1.85%)
+  Missed Speech: 0.41s (0.30%)
+  VAD Error Rate: 2.15%
+
+File: kszpd.rttm (ID: kszpd)
+  Reference Speech Duration: 156.80s
+  VAD Speech Duration: 157.56s
+  Correct Detection: 156.46s
+  False Alarm: 1.10s (0.70%)
+  Missed Speech: 0.34s (0.22%)
+  VAD Error Rate: 0.91%
+
+File: ktvto.rttm (ID: ktvto)
+  Reference Speech Duration: 748.10s
+  VAD Speech Duration: 782.83s
+  Correct Detection: 744.87s
+  False Alarm: 37.96s (5.07%)
+  Missed Speech: 3.23s (0.43%)
+  VAD Error Rate: 5.51%
+
+File: ktzmw.rttm (ID: ktzmw)
+  Reference Speech Duration: 954.32s
+  VAD Speech Duration: 956.38s
+  Correct Detection: 952.94s
+  False Alarm: 3.44s (0.36%)
+  Missed Speech: 1.38s (0.14%)
+  VAD Error Rate: 0.50%
+
+File: kuduk.rttm (ID: kuduk)
+  Reference Speech Duration: 539.96s
+  VAD Speech Duration: 540.26s
+  Correct Detection: 538.28s
+  False Alarm: 1.98s (0.37%)
+  Missed Speech: 1.68s (0.31%)
+  VAD Error Rate: 0.68%
+
+File: kvkje.rttm (ID: kvkje)
+  Reference Speech Duration: 858.63s
+  VAD Speech Duration: 885.04s
+  Correct Detection: 828.28s
+  False Alarm: 56.76s (6.61%)
+  Missed Speech: 30.35s (3.53%)
+  VAD Error Rate: 10.15%
+
+File: kzmyi.rttm (ID: kzmyi)
+  Reference Speech Duration: 637.14s
+  VAD Speech Duration: 649.76s
+  Correct Detection: 631.30s
+  False Alarm: 18.46s (2.90%)
+  Missed Speech: 5.84s (0.92%)
+  VAD Error Rate: 3.81%
+
+File: laoyl.rttm (ID: laoyl)
+  Reference Speech Duration: 282.14s
+  VAD Speech Duration: 288.26s
+  Correct Detection: 278.80s
+  False Alarm: 9.46s (3.35%)
+  Missed Speech: 3.34s (1.18%)
+  VAD Error Rate: 4.53%
+
+File: lbfnx.rttm (ID: lbfnx)
+  Reference Speech Duration: 1089.61s
+  VAD Speech Duration: 1120.85s
+  Correct Detection: 1084.19s
+  False Alarm: 36.66s (3.36%)
+  Missed Speech: 5.42s (0.50%)
+  VAD Error Rate: 3.86%
+
+File: ldkmv.rttm (ID: ldkmv)
+  Reference Speech Duration: 487.72s
+  VAD Speech Duration: 487.48s
+  Correct Detection: 486.74s
+  False Alarm: 0.74s (0.15%)
+  Missed Speech: 0.98s (0.20%)
+  VAD Error Rate: 0.35%
+
+File: ldnro.rttm (ID: ldnro)
+  Reference Speech Duration: 1054.76s
+  VAD Speech Duration: 1057.01s
+  Correct Detection: 1051.25s
+  False Alarm: 5.77s (0.55%)
+  Missed Speech: 3.51s (0.33%)
+  VAD Error Rate: 0.88%
+
+File: ledhe.rttm (ID: ledhe)
+  Reference Speech Duration: 387.17s
+  VAD Speech Duration: 392.17s
+  Correct Detection: 386.85s
+  False Alarm: 5.32s (1.37%)
+  Missed Speech: 0.32s (0.08%)
+  VAD Error Rate: 1.46%
+
+File: leneg.rttm (ID: leneg)
+  Reference Speech Duration: 342.13s
+  VAD Speech Duration: 366.37s
+  Correct Detection: 339.42s
+  False Alarm: 26.95s (7.88%)
+  Missed Speech: 2.71s (0.79%)
+  VAD Error Rate: 8.67%
+
+File: lfzib.rttm (ID: lfzib)
+  Reference Speech Duration: 270.24s
+  VAD Speech Duration: 267.99s
+  Correct Detection: 266.05s
+  False Alarm: 1.94s (0.72%)
+  Missed Speech: 4.19s (1.55%)
+  VAD Error Rate: 2.27%
+
+File: lhuly.rttm (ID: lhuly)
+  Reference Speech Duration: 1123.08s
+  VAD Speech Duration: 1126.02s
+  Correct Detection: 1107.59s
+  False Alarm: 18.44s (1.64%)
+  Missed Speech: 15.49s (1.38%)
+  VAD Error Rate: 3.02%
+
+File: lilfy.rttm (ID: lilfy)
+  Reference Speech Duration: 173.26s
+  VAD Speech Duration: 178.98s
+  Correct Detection: 172.49s
+  False Alarm: 6.49s (3.74%)
+  Missed Speech: 0.77s (0.44%)
+  VAD Error Rate: 4.19%
+
+File: ljpes.rttm (ID: ljpes)
+  Reference Speech Duration: 182.03s
+  VAD Speech Duration: 188.52s
+  Correct Detection: 181.29s
+  False Alarm: 7.22s (3.97%)
+  Missed Speech: 0.74s (0.41%)
+  VAD Error Rate: 4.37%
+
+File: lkikz.rttm (ID: lkikz)
+  Reference Speech Duration: 1121.87s
+  VAD Speech Duration: 1125.90s
+  Correct Detection: 1109.83s
+  False Alarm: 16.08s (1.43%)
+  Missed Speech: 12.04s (1.07%)
+  VAD Error Rate: 2.51%
+
+File: lknjp.rttm (ID: lknjp)
+  Reference Speech Duration: 69.24s
+  VAD Speech Duration: 69.39s
+  Correct Detection: 69.01s
+  False Alarm: 0.38s (0.55%)
+  Missed Speech: 0.23s (0.34%)
+  VAD Error Rate: 0.89%
+
+File: lpola.rttm (ID: lpola)
+  Reference Speech Duration: 776.70s
+  VAD Speech Duration: 755.85s
+  Correct Detection: 742.18s
+  False Alarm: 13.67s (1.76%)
+  Missed Speech: 34.52s (4.44%)
+  VAD Error Rate: 6.20%
+
+File: lscfc.rttm (ID: lscfc)
+  Reference Speech Duration: 741.83s
+  VAD Speech Duration: 770.30s
+  Correct Detection: 728.69s
+  False Alarm: 41.61s (5.61%)
+  Missed Speech: 13.14s (1.77%)
+  VAD Error Rate: 7.38%
+
+File: ltgmz.rttm (ID: ltgmz)
+  Reference Speech Duration: 166.02s
+  VAD Speech Duration: 153.28s
+  Correct Detection: 150.60s
+  False Alarm: 2.68s (1.61%)
+  Missed Speech: 15.42s (9.29%)
+  VAD Error Rate: 10.90%
+
+File: lubpm.rttm (ID: lubpm)
+  Reference Speech Duration: 54.37s
+  VAD Speech Duration: 53.76s
+  Correct Detection: 52.69s
+  False Alarm: 1.07s (1.97%)
+  Missed Speech: 1.68s (3.10%)
+  VAD Error Rate: 5.06%
+
+File: luobn.rttm (ID: luobn)
+  Reference Speech Duration: 80.56s
+  VAD Speech Duration: 80.92s
+  Correct Detection: 79.37s
+  False Alarm: 1.55s (1.93%)
+  Missed Speech: 1.19s (1.48%)
+  VAD Error Rate: 3.41%
+
+File: luvfz.rttm (ID: luvfz)
+  Reference Speech Duration: 186.88s
+  VAD Speech Duration: 186.25s
+  Correct Detection: 184.16s
+  False Alarm: 2.09s (1.12%)
+  Missed Speech: 2.72s (1.46%)
+  VAD Error Rate: 2.57%
+
+File: mbzht.rttm (ID: mbzht)
+  Reference Speech Duration: 125.03s
+  VAD Speech Duration: 125.48s
+  Correct Detection: 122.62s
+  False Alarm: 2.86s (2.29%)
+  Missed Speech: 2.41s (1.93%)
+  VAD Error Rate: 4.22%
+
+File: mclsr.rttm (ID: mclsr)
+  Reference Speech Duration: 269.45s
+  VAD Speech Duration: 273.88s
+  Correct Detection: 269.00s
+  False Alarm: 4.87s (1.81%)
+  Missed Speech: 0.45s (0.17%)
+  VAD Error Rate: 1.98%
+
+File: mdbod.rttm (ID: mdbod)
+  Reference Speech Duration: 590.40s
+  VAD Speech Duration: 590.03s
+  Correct Detection: 586.57s
+  False Alarm: 3.47s (0.59%)
+  Missed Speech: 3.83s (0.65%)
+  VAD Error Rate: 1.24%
+
+File: mekog.rttm (ID: mekog)
+  Reference Speech Duration: 869.68s
+  VAD Speech Duration: 872.42s
+  Correct Detection: 867.52s
+  False Alarm: 4.91s (0.56%)
+  Missed Speech: 2.16s (0.25%)
+  VAD Error Rate: 0.81%
+
+File: mesob.rttm (ID: mesob)
+  Reference Speech Duration: 157.00s
+  VAD Speech Duration: 157.30s
+  Correct Detection: 156.97s
+  False Alarm: 0.33s (0.21%)
+  Missed Speech: 0.03s (0.02%)
+  VAD Error Rate: 0.23%
+
+File: mevkw.rttm (ID: mevkw)
+  Reference Speech Duration: 92.88s
+  VAD Speech Duration: 92.77s
+  Correct Detection: 92.26s
+  False Alarm: 0.50s (0.54%)
+  Missed Speech: 0.62s (0.67%)
+  VAD Error Rate: 1.21%
+
+File: mgpok.rttm (ID: mgpok)
+  Reference Speech Duration: 533.04s
+  VAD Speech Duration: 533.35s
+  Correct Detection: 529.14s
+  False Alarm: 4.21s (0.79%)
+  Missed Speech: 3.90s (0.73%)
+  VAD Error Rate: 1.52%
+
+File: mhwyr.rttm (ID: mhwyr)
+  Reference Speech Duration: 1006.64s
+  VAD Speech Duration: 1040.84s
+  Correct Detection: 996.58s
+  False Alarm: 44.26s (4.40%)
+  Missed Speech: 10.06s (1.00%)
+  VAD Error Rate: 5.40%
+
+File: migzj.rttm (ID: migzj)
+  Reference Speech Duration: 173.88s
+  VAD Speech Duration: 174.03s
+  Correct Detection: 173.47s
+  False Alarm: 0.56s (0.32%)
+  Missed Speech: 0.41s (0.24%)
+  VAD Error Rate: 0.56%
+
+File: mjgil.rttm (ID: mjgil)
+  Reference Speech Duration: 200.48s
+  VAD Speech Duration: 202.94s
+  Correct Detection: 199.69s
+  False Alarm: 3.25s (1.62%)
+  Missed Speech: 0.79s (0.40%)
+  VAD Error Rate: 2.01%
+
+File: mjmgr.rttm (ID: mjmgr)
+  Reference Speech Duration: 266.41s
+  VAD Speech Duration: 272.15s
+  Correct Detection: 265.50s
+  False Alarm: 6.65s (2.49%)
+  Missed Speech: 0.91s (0.34%)
+  VAD Error Rate: 2.84%
+
+File: mkhie.rttm (ID: mkhie)
+  Reference Speech Duration: 1082.79s
+  VAD Speech Duration: 1100.10s
+  Correct Detection: 1064.83s
+  False Alarm: 35.27s (3.26%)
+  Missed Speech: 17.96s (1.66%)
+  VAD Error Rate: 4.92%
+
+File: mkrcv.rttm (ID: mkrcv)
+  Reference Speech Duration: 584.28s
+  VAD Speech Duration: 586.32s
+  Correct Detection: 583.13s
+  False Alarm: 3.19s (0.55%)
+  Missed Speech: 1.15s (0.20%)
+  VAD Error Rate: 0.74%
+
+File: mpvoh.rttm (ID: mpvoh)
+  Reference Speech Duration: 135.68s
+  VAD Speech Duration: 133.19s
+  Correct Detection: 131.30s
+  False Alarm: 1.89s (1.39%)
+  Missed Speech: 4.38s (3.23%)
+  VAD Error Rate: 4.62%
+
+File: mqtep.rttm (ID: mqtep)
+  Reference Speech Duration: 132.20s
+  VAD Speech Duration: 133.69s
+  Correct Detection: 131.73s
+  False Alarm: 1.95s (1.48%)
+  Missed Speech: 0.47s (0.35%)
+  VAD Error Rate: 1.83%
+
+File: mqxsf.rttm (ID: mqxsf)
+  Reference Speech Duration: 654.00s
+  VAD Speech Duration: 656.14s
+  Correct Detection: 650.44s
+  False Alarm: 5.71s (0.87%)
+  Missed Speech: 3.56s (0.55%)
+  VAD Error Rate: 1.42%
+
+File: msbyq.rttm (ID: msbyq)
+  Reference Speech Duration: 37.41s
+  VAD Speech Duration: 37.58s
+  Correct Detection: 37.09s
+  False Alarm: 0.48s (1.29%)
+  Missed Speech: 0.32s (0.84%)
+  VAD Error Rate: 2.14%
+
+File: mupzb.rttm (ID: mupzb)
+  Reference Speech Duration: 373.89s
+  VAD Speech Duration: 427.68s
+  Correct Detection: 370.40s
+  False Alarm: 57.28s (15.32%)
+  Missed Speech: 3.49s (0.93%)
+  VAD Error Rate: 16.25%
+
+File: mvjuk.rttm (ID: mvjuk)
+  Reference Speech Duration: 363.96s
+  VAD Speech Duration: 364.57s
+  Correct Detection: 362.51s
+  False Alarm: 2.07s (0.57%)
+  Missed Speech: 1.45s (0.40%)
+  VAD Error Rate: 0.97%
+
+File: mwfmq.rttm (ID: mwfmq)
+  Reference Speech Duration: 433.80s
+  VAD Speech Duration: 434.54s
+  Correct Detection: 433.69s
+  False Alarm: 0.85s (0.20%)
+  Missed Speech: 0.11s (0.02%)
+  VAD Error Rate: 0.22%
+
+File: mxdpo.rttm (ID: mxdpo)
+  Reference Speech Duration: 98.32s
+  VAD Speech Duration: 100.07s
+  Correct Detection: 94.40s
+  False Alarm: 5.67s (5.77%)
+  Missed Speech: 3.92s (3.99%)
+  VAD Error Rate: 9.76%
+
+File: mxduo.rttm (ID: mxduo)
+  Reference Speech Duration: 1016.45s
+  VAD Speech Duration: 1070.56s
+  Correct Detection: 1000.67s
+  False Alarm: 69.89s (6.88%)
+  Missed Speech: 15.78s (1.55%)
+  VAD Error Rate: 8.43%
+
+File: myjoe.rttm (ID: myjoe)
+  Reference Speech Duration: 490.09s
+  VAD Speech Duration: 514.22s
+  Correct Detection: 484.19s
+  False Alarm: 30.03s (6.13%)
+  Missed Speech: 5.90s (1.20%)
+  VAD Error Rate: 7.33%
+
+File: nctdh.rttm (ID: nctdh)
+  Reference Speech Duration: 116.80s
+  VAD Speech Duration: 117.73s
+  Correct Detection: 116.20s
+  False Alarm: 1.53s (1.31%)
+  Missed Speech: 0.60s (0.52%)
+  VAD Error Rate: 1.83%
+
+File: ndkwv.rttm (ID: ndkwv)
+  Reference Speech Duration: 729.68s
+  VAD Speech Duration: 730.32s
+  Correct Detection: 727.61s
+  False Alarm: 2.71s (0.37%)
+  Missed Speech: 2.07s (0.28%)
+  VAD Error Rate: 0.66%
+
+File: neiye.rttm (ID: neiye)
+  Reference Speech Duration: 47.14s
+  VAD Speech Duration: 48.33s
+  Correct Detection: 47.09s
+  False Alarm: 1.24s (2.63%)
+  Missed Speech: 0.05s (0.11%)
+  VAD Error Rate: 2.73%
+
+File: nfqjx.rttm (ID: nfqjx)
+  Reference Speech Duration: 714.68s
+  VAD Speech Duration: 718.57s
+  Correct Detection: 712.47s
+  False Alarm: 6.10s (0.85%)
+  Missed Speech: 2.21s (0.31%)
+  VAD Error Rate: 1.16%
+
+File: ngyrk.rttm (ID: ngyrk)
+  Reference Speech Duration: 139.20s
+  VAD Speech Duration: 140.09s
+  Correct Detection: 138.73s
+  False Alarm: 1.35s (0.97%)
+  Missed Speech: 0.47s (0.34%)
+  VAD Error Rate: 1.31%
+
+File: nitgx.rttm (ID: nitgx)
+  Reference Speech Duration: 1105.63s
+  VAD Speech Duration: 1138.82s
+  Correct Detection: 1094.50s
+  False Alarm: 44.32s (4.01%)
+  Missed Speech: 11.13s (1.01%)
+  VAD Error Rate: 5.02%
+
+File: nkqzr.rttm (ID: nkqzr)
+  Reference Speech Duration: 922.79s
+  VAD Speech Duration: 931.40s
+  Correct Detection: 901.02s
+  False Alarm: 30.38s (3.29%)
+  Missed Speech: 21.77s (2.36%)
+  VAD Error Rate: 5.65%
+
+File: nlvdr.rttm (ID: nlvdr)
+  Reference Speech Duration: 1031.40s
+  VAD Speech Duration: 1065.03s
+  Correct Detection: 1011.81s
+  False Alarm: 53.22s (5.16%)
+  Missed Speech: 19.59s (1.90%)
+  VAD Error Rate: 7.06%
+
+File: nnqfq.rttm (ID: nnqfq)
+  Reference Speech Duration: 144.48s
+  VAD Speech Duration: 144.69s
+  Correct Detection: 144.41s
+  False Alarm: 0.28s (0.19%)
+  Missed Speech: 0.07s (0.05%)
+  VAD Error Rate: 0.24%
+
+File: nprxc.rttm (ID: nprxc)
+  Reference Speech Duration: 331.30s
+  VAD Speech Duration: 350.56s
+  Correct Detection: 326.59s
+  False Alarm: 23.98s (7.24%)
+  Missed Speech: 4.71s (1.42%)
+  VAD Error Rate: 8.66%
+
+File: nqcpi.rttm (ID: nqcpi)
+  Reference Speech Duration: 94.40s
+  VAD Speech Duration: 94.59s
+  Correct Detection: 93.75s
+  False Alarm: 0.84s (0.89%)
+  Missed Speech: 0.65s (0.68%)
+  VAD Error Rate: 1.57%
+
+File: nqyqm.rttm (ID: nqyqm)
+  Reference Speech Duration: 974.37s
+  VAD Speech Duration: 977.75s
+  Correct Detection: 958.50s
+  False Alarm: 19.24s (1.98%)
+  Missed Speech: 15.87s (1.63%)
+  VAD Error Rate: 3.60%
+
+File: nrogz.rttm (ID: nrogz)
+  Reference Speech Duration: 394.92s
+  VAD Speech Duration: 399.15s
+  Correct Detection: 391.05s
+  False Alarm: 8.10s (2.05%)
+  Missed Speech: 3.87s (0.98%)
+  VAD Error Rate: 3.03%
+
+File: ntchr.rttm (ID: ntchr)
+  Reference Speech Duration: 393.44s
+  VAD Speech Duration: 394.18s
+  Correct Detection: 392.49s
+  False Alarm: 1.69s (0.43%)
+  Missed Speech: 0.95s (0.24%)
+  VAD Error Rate: 0.67%
+
+File: nxgad.rttm (ID: nxgad)
+  Reference Speech Duration: 169.16s
+  VAD Speech Duration: 168.60s
+  Correct Detection: 168.50s
+  False Alarm: 0.10s (0.06%)
+  Missed Speech: 0.66s (0.39%)
+  VAD Error Rate: 0.45%
+
+File: ocfop.rttm (ID: ocfop)
+  Reference Speech Duration: 1173.77s
+  VAD Speech Duration: 1158.00s
+  Correct Detection: 1151.25s
+  False Alarm: 6.75s (0.57%)
+  Missed Speech: 22.52s (1.92%)
+  VAD Error Rate: 2.49%
+
+File: odkzj.rttm (ID: odkzj)
+  Reference Speech Duration: 579.32s
+  VAD Speech Duration: 581.13s
+  Correct Detection: 578.17s
+  False Alarm: 2.96s (0.51%)
+  Missed Speech: 1.15s (0.20%)
+  VAD Error Rate: 0.71%
+
+File: oekmc.rttm (ID: oekmc)
+  Reference Speech Duration: 143.24s
+  VAD Speech Duration: 143.74s
+  Correct Detection: 142.85s
+  False Alarm: 0.89s (0.62%)
+  Missed Speech: 0.39s (0.27%)
+  VAD Error Rate: 0.89%
+
+File: oenox.rttm (ID: oenox)
+  Reference Speech Duration: 73.12s
+  VAD Speech Duration: 73.16s
+  Correct Detection: 72.91s
+  False Alarm: 0.25s (0.34%)
+  Missed Speech: 0.21s (0.29%)
+  VAD Error Rate: 0.63%
+
+File: ofbxh.rttm (ID: ofbxh)
+  Reference Speech Duration: 1061.94s
+  VAD Speech Duration: 1041.20s
+  Correct Detection: 1029.80s
+  False Alarm: 11.40s (1.07%)
+  Missed Speech: 32.14s (3.03%)
+  VAD Error Rate: 4.10%
+
+File: oklol.rttm (ID: oklol)
+  Reference Speech Duration: 925.36s
+  VAD Speech Duration: 930.94s
+  Correct Detection: 922.55s
+  False Alarm: 8.38s (0.91%)
+  Missed Speech: 2.81s (0.30%)
+  VAD Error Rate: 1.21%
+
+File: olzkb.rttm (ID: olzkb)
+  Reference Speech Duration: 202.63s
+  VAD Speech Duration: 205.05s
+  Correct Detection: 201.57s
+  False Alarm: 3.48s (1.72%)
+  Missed Speech: 1.06s (0.53%)
+  VAD Error Rate: 2.24%
+
+File: onpra.rttm (ID: onpra)
+  Reference Speech Duration: 248.48s
+  VAD Speech Duration: 250.58s
+  Correct Detection: 246.99s
+  False Alarm: 3.59s (1.44%)
+  Missed Speech: 1.49s (0.60%)
+  VAD Error Rate: 2.04%
+
+File: ooxlj.rttm (ID: ooxlj)
+  Reference Speech Duration: 149.92s
+  VAD Speech Duration: 165.46s
+  Correct Detection: 149.52s
+  False Alarm: 15.94s (10.63%)
+  Missed Speech: 0.40s (0.26%)
+  VAD Error Rate: 10.89%
+
+File: ooxnm.rttm (ID: ooxnm)
+  Reference Speech Duration: 297.52s
+  VAD Speech Duration: 296.74s
+  Correct Detection: 295.33s
+  False Alarm: 1.41s (0.47%)
+  Missed Speech: 2.19s (0.74%)
+  VAD Error Rate: 1.21%
+
+File: optsn.rttm (ID: optsn)
+  Reference Speech Duration: 850.60s
+  VAD Speech Duration: 908.75s
+  Correct Detection: 836.88s
+  False Alarm: 71.87s (8.45%)
+  Missed Speech: 13.72s (1.61%)
+  VAD Error Rate: 10.06%
+
+File: oqwpd.rttm (ID: oqwpd)
+  Reference Speech Duration: 231.20s
+  VAD Speech Duration: 236.40s
+  Correct Detection: 231.20s
+  False Alarm: 5.20s (2.25%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 2.25%
+
+File: otmpf.rttm (ID: otmpf)
+  Reference Speech Duration: 413.09s
+  VAD Speech Duration: 414.76s
+  Correct Detection: 410.78s
+  False Alarm: 3.98s (0.96%)
+  Missed Speech: 2.31s (0.56%)
+  VAD Error Rate: 1.52%
+
+File: oubab.rttm (ID: oubab)
+  Reference Speech Duration: 515.05s
+  VAD Speech Duration: 508.68s
+  Correct Detection: 498.67s
+  False Alarm: 10.01s (1.94%)
+  Missed Speech: 16.38s (3.18%)
+  VAD Error Rate: 5.12%
+
+File: ouvtt.rttm (ID: ouvtt)
+  Reference Speech Duration: 637.52s
+  VAD Speech Duration: 665.03s
+  Correct Detection: 625.30s
+  False Alarm: 39.74s (6.23%)
+  Missed Speech: 12.22s (1.92%)
+  VAD Error Rate: 8.15%
+
+File: oxxwk.rttm (ID: oxxwk)
+  Reference Speech Duration: 402.88s
+  VAD Speech Duration: 404.56s
+  Correct Detection: 399.72s
+  False Alarm: 4.84s (1.20%)
+  Missed Speech: 3.16s (0.78%)
+  VAD Error Rate: 1.99%
+
+File: paibn.rttm (ID: paibn)
+  Reference Speech Duration: 336.12s
+  VAD Speech Duration: 336.94s
+  Correct Detection: 335.93s
+  False Alarm: 1.01s (0.30%)
+  Missed Speech: 0.19s (0.06%)
+  VAD Error Rate: 0.36%
+
+File: pccww.rttm (ID: pccww)
+  Reference Speech Duration: 131.37s
+  VAD Speech Duration: 129.81s
+  Correct Detection: 128.86s
+  False Alarm: 0.95s (0.72%)
+  Missed Speech: 2.51s (1.91%)
+  VAD Error Rate: 2.63%
+
+File: pgkde.rttm (ID: pgkde)
+  Reference Speech Duration: 288.44s
+  VAD Speech Duration: 289.01s
+  Correct Detection: 287.30s
+  False Alarm: 1.71s (0.59%)
+  Missed Speech: 1.14s (0.39%)
+  VAD Error Rate: 0.98%
+
+File: pgtkk.rttm (ID: pgtkk)
+  Reference Speech Duration: 214.67s
+  VAD Speech Duration: 219.69s
+  Correct Detection: 213.28s
+  False Alarm: 6.41s (2.99%)
+  Missed Speech: 1.39s (0.65%)
+  VAD Error Rate: 3.63%
+
+File: pilgb.rttm (ID: pilgb)
+  Reference Speech Duration: 530.28s
+  VAD Speech Duration: 532.87s
+  Correct Detection: 527.23s
+  False Alarm: 5.64s (1.06%)
+  Missed Speech: 3.05s (0.58%)
+  VAD Error Rate: 1.64%
+
+File: pkwrt.rttm (ID: pkwrt)
+  Reference Speech Duration: 165.39s
+  VAD Speech Duration: 165.22s
+  Correct Detection: 164.50s
+  False Alarm: 0.72s (0.44%)
+  Missed Speech: 0.89s (0.54%)
+  VAD Error Rate: 0.97%
+
+File: plbbw.rttm (ID: plbbw)
+  Reference Speech Duration: 75.52s
+  VAD Speech Duration: 76.25s
+  Correct Detection: 75.43s
+  False Alarm: 0.82s (1.08%)
+  Missed Speech: 0.09s (0.12%)
+  VAD Error Rate: 1.20%
+
+File: pnook.rttm (ID: pnook)
+  Reference Speech Duration: 321.76s
+  VAD Speech Duration: 324.35s
+  Correct Detection: 319.38s
+  False Alarm: 4.97s (1.54%)
+  Missed Speech: 2.38s (0.74%)
+  VAD Error Rate: 2.28%
+
+File: pnyir.rttm (ID: pnyir)
+  Reference Speech Duration: 440.84s
+  VAD Speech Duration: 441.62s
+  Correct Detection: 439.78s
+  False Alarm: 1.84s (0.42%)
+  Missed Speech: 1.06s (0.24%)
+  VAD Error Rate: 0.66%
+
+File: poucc.rttm (ID: poucc)
+  Reference Speech Duration: 840.72s
+  VAD Speech Duration: 865.95s
+  Correct Detection: 829.71s
+  False Alarm: 36.24s (4.31%)
+  Missed Speech: 11.01s (1.31%)
+  VAD Error Rate: 5.62%
+
+File: ppexo.rttm (ID: ppexo)
+  Reference Speech Duration: 113.76s
+  VAD Speech Duration: 123.80s
+  Correct Detection: 110.07s
+  False Alarm: 13.73s (12.07%)
+  Missed Speech: 3.69s (3.24%)
+  VAD Error Rate: 15.32%
+
+File: ppgjx.rttm (ID: ppgjx)
+  Reference Speech Duration: 442.04s
+  VAD Speech Duration: 443.14s
+  Correct Detection: 436.51s
+  False Alarm: 6.63s (1.50%)
+  Missed Speech: 5.53s (1.25%)
+  VAD Error Rate: 2.75%
+
+File: pqmho.rttm (ID: pqmho)
+  Reference Speech Duration: 14.92s
+  VAD Speech Duration: 14.90s
+  Correct Detection: 14.72s
+  False Alarm: 0.18s (1.19%)
+  Missed Speech: 0.20s (1.35%)
+  VAD Error Rate: 2.54%
+
+File: praxo.rttm (ID: praxo)
+  Reference Speech Duration: 494.40s
+  VAD Speech Duration: 495.07s
+  Correct Detection: 492.07s
+  False Alarm: 3.00s (0.61%)
+  Missed Speech: 2.33s (0.47%)
+  VAD Error Rate: 1.08%
+
+File: ptses.rttm (ID: ptses)
+  Reference Speech Duration: 534.46s
+  VAD Speech Duration: 615.82s
+  Correct Detection: 524.07s
+  False Alarm: 91.75s (17.17%)
+  Missed Speech: 10.39s (1.94%)
+  VAD Error Rate: 19.11%
+
+File: pwnsw.rttm (ID: pwnsw)
+  Reference Speech Duration: 944.51s
+  VAD Speech Duration: 946.18s
+  Correct Detection: 927.67s
+  False Alarm: 18.51s (1.96%)
+  Missed Speech: 16.84s (1.78%)
+  VAD Error Rate: 3.74%
+
+File: pxqme.rttm (ID: pxqme)
+  Reference Speech Duration: 371.17s
+  VAD Speech Duration: 372.78s
+  Correct Detection: 370.30s
+  False Alarm: 2.48s (0.67%)
+  Missed Speech: 0.87s (0.23%)
+  VAD Error Rate: 0.90%
+
+File: pzxit.rttm (ID: pzxit)
+  Reference Speech Duration: 587.37s
+  VAD Speech Duration: 585.12s
+  Correct Detection: 574.80s
+  False Alarm: 10.32s (1.76%)
+  Missed Speech: 12.57s (2.14%)
+  VAD Error Rate: 3.90%
+
+File: qadia.rttm (ID: qadia)
+  Reference Speech Duration: 255.29s
+  VAD Speech Duration: 260.25s
+  Correct Detection: 250.51s
+  False Alarm: 9.74s (3.82%)
+  Missed Speech: 4.78s (1.87%)
+  VAD Error Rate: 5.69%
+
+File: qajyo.rttm (ID: qajyo)
+  Reference Speech Duration: 894.17s
+  VAD Speech Duration: 890.34s
+  Correct Detection: 879.55s
+  False Alarm: 10.79s (1.21%)
+  Missed Speech: 14.62s (1.63%)
+  VAD Error Rate: 2.84%
+
+File: qeejz.rttm (ID: qeejz)
+  Reference Speech Duration: 265.20s
+  VAD Speech Duration: 278.48s
+  Correct Detection: 261.01s
+  False Alarm: 17.47s (6.59%)
+  Missed Speech: 4.19s (1.58%)
+  VAD Error Rate: 8.17%
+
+File: qfdpp.rttm (ID: qfdpp)
+  Reference Speech Duration: 317.48s
+  VAD Speech Duration: 318.23s
+  Correct Detection: 317.11s
+  False Alarm: 1.12s (0.35%)
+  Missed Speech: 0.37s (0.12%)
+  VAD Error Rate: 0.47%
+
+File: qhesr.rttm (ID: qhesr)
+  Reference Speech Duration: 149.12s
+  VAD Speech Duration: 148.99s
+  Correct Detection: 148.42s
+  False Alarm: 0.58s (0.39%)
+  Missed Speech: 0.70s (0.47%)
+  VAD Error Rate: 0.86%
+
+File: qjgpl.rttm (ID: qjgpl)
+  Reference Speech Duration: 113.12s
+  VAD Speech Duration: 112.68s
+  Correct Detection: 111.77s
+  False Alarm: 0.91s (0.81%)
+  Missed Speech: 1.35s (1.20%)
+  VAD Error Rate: 2.00%
+
+File: qlrry.rttm (ID: qlrry)
+  Reference Speech Duration: 305.32s
+  VAD Speech Duration: 324.91s
+  Correct Detection: 287.02s
+  False Alarm: 37.89s (12.41%)
+  Missed Speech: 18.30s (5.99%)
+  VAD Error Rate: 18.40%
+
+File: qoarn.rttm (ID: qoarn)
+  Reference Speech Duration: 1061.02s
+  VAD Speech Duration: 1093.80s
+  Correct Detection: 1049.75s
+  False Alarm: 44.05s (4.15%)
+  Missed Speech: 11.27s (1.06%)
+  VAD Error Rate: 5.21%
+
+File: qouur.rttm (ID: qouur)
+  Reference Speech Duration: 1016.40s
+  VAD Speech Duration: 1018.48s
+  Correct Detection: 1016.28s
+  False Alarm: 2.20s (0.22%)
+  Missed Speech: 0.12s (0.01%)
+  VAD Error Rate: 0.23%
+
+File: qppll.rttm (ID: qppll)
+  Reference Speech Duration: 66.56s
+  VAD Speech Duration: 68.02s
+  Correct Detection: 66.48s
+  False Alarm: 1.54s (2.31%)
+  Missed Speech: 0.08s (0.12%)
+  VAD Error Rate: 2.42%
+
+File: qpylu.rttm (ID: qpylu)
+  Reference Speech Duration: 32.48s
+  VAD Speech Duration: 31.38s
+  Correct Detection: 31.15s
+  False Alarm: 0.23s (0.71%)
+  Missed Speech: 1.33s (4.09%)
+  VAD Error Rate: 4.81%
+
+File: qrzjk.rttm (ID: qrzjk)
+  Reference Speech Duration: 38.72s
+  VAD Speech Duration: 39.44s
+  Correct Detection: 38.71s
+  False Alarm: 0.73s (1.87%)
+  Missed Speech: 0.01s (0.02%)
+  VAD Error Rate: 1.90%
+
+File: qsfzo.rttm (ID: qsfzo)
+  Reference Speech Duration: 141.92s
+  VAD Speech Duration: 142.88s
+  Correct Detection: 141.92s
+  False Alarm: 0.96s (0.68%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 0.68%
+
+File: qvtia.rttm (ID: qvtia)
+  Reference Speech Duration: 224.24s
+  VAD Speech Duration: 271.31s
+  Correct Detection: 221.69s
+  False Alarm: 49.62s (22.13%)
+  Missed Speech: 2.55s (1.14%)
+  VAD Error Rate: 23.26%
+
+File: qwepo.rttm (ID: qwepo)
+  Reference Speech Duration: 431.22s
+  VAD Speech Duration: 432.70s
+  Correct Detection: 429.22s
+  False Alarm: 3.48s (0.81%)
+  Missed Speech: 2.00s (0.46%)
+  VAD Error Rate: 1.27%
+
+File: qxana.rttm (ID: qxana)
+  Reference Speech Duration: 1118.55s
+  VAD Speech Duration: 1127.32s
+  Correct Detection: 1104.87s
+  False Alarm: 22.45s (2.01%)
+  Missed Speech: 13.68s (1.22%)
+  VAD Error Rate: 3.23%
+
+File: qydmg.rttm (ID: qydmg)
+  Reference Speech Duration: 112.68s
+  VAD Speech Duration: 112.99s
+  Correct Detection: 112.68s
+  False Alarm: 0.31s (0.27%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 0.27%
+
+File: qygfk.rttm (ID: qygfk)
+  Reference Speech Duration: 427.32s
+  VAD Speech Duration: 425.80s
+  Correct Detection: 424.97s
+  False Alarm: 0.83s (0.19%)
+  Missed Speech: 2.35s (0.55%)
+  VAD Error Rate: 0.74%
+
+File: qzwxa.rttm (ID: qzwxa)
+  Reference Speech Duration: 214.24s
+  VAD Speech Duration: 216.48s
+  Correct Detection: 213.78s
+  False Alarm: 2.71s (1.26%)
+  Missed Speech: 0.46s (0.22%)
+  VAD Error Rate: 1.48%
+
+File: ralnu.rttm (ID: ralnu)
+  Reference Speech Duration: 142.75s
+  VAD Speech Duration: 149.98s
+  Correct Detection: 141.23s
+  False Alarm: 8.75s (6.13%)
+  Missed Speech: 1.52s (1.06%)
+  VAD Error Rate: 7.20%
+
+File: rarij.rttm (ID: rarij)
+  Reference Speech Duration: 1122.81s
+  VAD Speech Duration: 1113.07s
+  Correct Detection: 1096.32s
+  False Alarm: 16.75s (1.49%)
+  Missed Speech: 26.49s (2.36%)
+  VAD Error Rate: 3.85%
+
+File: rcxzg.rttm (ID: rcxzg)
+  Reference Speech Duration: 177.52s
+  VAD Speech Duration: 177.42s
+  Correct Detection: 176.81s
+  False Alarm: 0.62s (0.35%)
+  Missed Speech: 0.71s (0.40%)
+  VAD Error Rate: 0.75%
+
+File: rmvsh.rttm (ID: rmvsh)
+  Reference Speech Duration: 99.43s
+  VAD Speech Duration: 98.55s
+  Correct Detection: 97.95s
+  False Alarm: 0.60s (0.60%)
+  Missed Speech: 1.48s (1.49%)
+  VAD Error Rate: 2.09%
+
+File: rpkso.rttm (ID: rpkso)
+  Reference Speech Duration: 319.34s
+  VAD Speech Duration: 327.03s
+  Correct Detection: 318.98s
+  False Alarm: 8.05s (2.52%)
+  Missed Speech: 0.36s (0.11%)
+  VAD Error Rate: 2.63%
+
+File: rsypp.rttm (ID: rsypp)
+  Reference Speech Duration: 1081.85s
+  VAD Speech Duration: 1099.01s
+  Correct Detection: 1065.35s
+  False Alarm: 33.66s (3.11%)
+  Missed Speech: 16.50s (1.52%)
+  VAD Error Rate: 4.64%
+
+File: rtvuw.rttm (ID: rtvuw)
+  Reference Speech Duration: 55.24s
+  VAD Speech Duration: 56.69s
+  Correct Detection: 55.24s
+  False Alarm: 1.45s (2.62%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 2.62%
+
+File: rxgun.rttm (ID: rxgun)
+  Reference Speech Duration: 209.40s
+  VAD Speech Duration: 212.47s
+  Correct Detection: 209.05s
+  False Alarm: 3.43s (1.64%)
+  Missed Speech: 0.36s (0.17%)
+  VAD Error Rate: 1.81%
+
+File: rxulz.rttm (ID: rxulz)
+  Reference Speech Duration: 1099.35s
+  VAD Speech Duration: 1145.10s
+  Correct Detection: 1089.62s
+  False Alarm: 55.48s (5.05%)
+  Missed Speech: 9.73s (0.88%)
+  VAD Error Rate: 5.93%
+
+File: ryken.rttm (ID: ryken)
+  Reference Speech Duration: 1157.02s
+  VAD Speech Duration: 1159.37s
+  Correct Detection: 1154.03s
+  False Alarm: 5.34s (0.46%)
+  Missed Speech: 2.99s (0.26%)
+  VAD Error Rate: 0.72%
+
+File: sbrmv.rttm (ID: sbrmv)
+  Reference Speech Duration: 175.43s
+  VAD Speech Duration: 175.43s
+  Correct Detection: 172.71s
+  False Alarm: 2.71s (1.55%)
+  Missed Speech: 2.72s (1.55%)
+  VAD Error Rate: 3.09%
+
+File: sduml.rttm (ID: sduml)
+  Reference Speech Duration: 649.36s
+  VAD Speech Duration: 668.53s
+  Correct Detection: 648.72s
+  False Alarm: 19.81s (3.05%)
+  Missed Speech: 0.64s (0.10%)
+  VAD Error Rate: 3.15%
+
+File: sebyw.rttm (ID: sebyw)
+  Reference Speech Duration: 1169.09s
+  VAD Speech Duration: 1140.76s
+  Correct Detection: 1135.09s
+  False Alarm: 5.66s (0.48%)
+  Missed Speech: 34.00s (2.91%)
+  VAD Error Rate: 3.39%
+
+File: sexgc.rttm (ID: sexgc)
+  Reference Speech Duration: 770.08s
+  VAD Speech Duration: 780.07s
+  Correct Detection: 762.36s
+  False Alarm: 17.71s (2.30%)
+  Missed Speech: 7.72s (1.00%)
+  VAD Error Rate: 3.30%
+
+File: sfdvy.rttm (ID: sfdvy)
+  Reference Speech Duration: 321.54s
+  VAD Speech Duration: 319.10s
+  Correct Detection: 317.74s
+  False Alarm: 1.36s (0.42%)
+  Missed Speech: 3.80s (1.18%)
+  VAD Error Rate: 1.60%
+
+File: sikkm.rttm (ID: sikkm)
+  Reference Speech Duration: 62.72s
+  VAD Speech Duration: 62.42s
+  Correct Detection: 62.42s
+  False Alarm: 0.00s (0.00%)
+  Missed Speech: 0.30s (0.47%)
+  VAD Error Rate: 0.47%
+
+File: sldwj.rttm (ID: sldwj)
+  Reference Speech Duration: 132.96s
+  VAD Speech Duration: 134.86s
+  Correct Detection: 132.23s
+  False Alarm: 2.64s (1.98%)
+  Missed Speech: 0.73s (0.55%)
+  VAD Error Rate: 2.54%
+
+File: sosnj.rttm (ID: sosnj)
+  Reference Speech Duration: 320.92s
+  VAD Speech Duration: 327.73s
+  Correct Detection: 319.97s
+  False Alarm: 7.76s (2.42%)
+  Missed Speech: 0.95s (0.30%)
+  VAD Error Rate: 2.71%
+
+File: spzmn.rttm (ID: spzmn)
+  Reference Speech Duration: 154.60s
+  VAD Speech Duration: 154.13s
+  Correct Detection: 154.08s
+  False Alarm: 0.05s (0.03%)
+  Missed Speech: 0.52s (0.34%)
+  VAD Error Rate: 0.37%
+
+File: sqkup.rttm (ID: sqkup)
+  Reference Speech Duration: 118.72s
+  VAD Speech Duration: 125.49s
+  Correct Detection: 118.61s
+  False Alarm: 6.88s (5.80%)
+  Missed Speech: 0.11s (0.09%)
+  VAD Error Rate: 5.89%
+
+File: suuxu.rttm (ID: suuxu)
+  Reference Speech Duration: 260.64s
+  VAD Speech Duration: 276.13s
+  Correct Detection: 253.95s
+  False Alarm: 22.18s (8.51%)
+  Missed Speech: 6.69s (2.57%)
+  VAD Error Rate: 11.08%
+
+File: svxzm.rttm (ID: svxzm)
+  Reference Speech Duration: 940.85s
+  VAD Speech Duration: 949.35s
+  Correct Detection: 939.10s
+  False Alarm: 10.26s (1.09%)
+  Missed Speech: 1.75s (0.19%)
+  VAD Error Rate: 1.28%
+
+File: swbnm.rttm (ID: swbnm)
+  Reference Speech Duration: 1088.70s
+  VAD Speech Duration: 1126.13s
+  Correct Detection: 1084.24s
+  False Alarm: 41.88s (3.85%)
+  Missed Speech: 4.46s (0.41%)
+  VAD Error Rate: 4.26%
+
+File: sxqvt.rttm (ID: sxqvt)
+  Reference Speech Duration: 226.65s
+  VAD Speech Duration: 227.58s
+  Correct Detection: 214.04s
+  False Alarm: 13.53s (5.97%)
+  Missed Speech: 12.60s (5.56%)
+  VAD Error Rate: 11.53%
+
+File: syiwe.rttm (ID: syiwe)
+  Reference Speech Duration: 63.76s
+  VAD Speech Duration: 63.62s
+  Correct Detection: 62.58s
+  False Alarm: 1.04s (1.63%)
+  Missed Speech: 1.18s (1.86%)
+  VAD Error Rate: 3.49%
+
+File: szsyz.rttm (ID: szsyz)
+  Reference Speech Duration: 49.00s
+  VAD Speech Duration: 47.56s
+  Correct Detection: 47.25s
+  False Alarm: 0.31s (0.63%)
+  Missed Speech: 1.75s (3.57%)
+  VAD Error Rate: 4.21%
+
+File: tbjqx.rttm (ID: tbjqx)
+  Reference Speech Duration: 732.78s
+  VAD Speech Duration: 725.01s
+  Correct Detection: 713.59s
+  False Alarm: 11.42s (1.56%)
+  Missed Speech: 19.19s (2.62%)
+  VAD Error Rate: 4.18%
+
+File: tcwsn.rttm (ID: tcwsn)
+  Reference Speech Duration: 366.20s
+  VAD Speech Duration: 368.12s
+  Correct Detection: 365.86s
+  False Alarm: 2.27s (0.62%)
+  Missed Speech: 0.34s (0.09%)
+  VAD Error Rate: 0.71%
+
+File: tfvyr.rttm (ID: tfvyr)
+  Reference Speech Duration: 27.40s
+  VAD Speech Duration: 27.90s
+  Correct Detection: 27.40s
+  False Alarm: 0.50s (1.83%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 1.83%
+
+File: tguxv.rttm (ID: tguxv)
+  Reference Speech Duration: 238.08s
+  VAD Speech Duration: 240.44s
+  Correct Detection: 237.80s
+  False Alarm: 2.64s (1.11%)
+  Missed Speech: 0.28s (0.12%)
+  VAD Error Rate: 1.23%
+
+File: thnuq.rttm (ID: thnuq)
+  Reference Speech Duration: 922.29s
+  VAD Speech Duration: 954.63s
+  Correct Detection: 898.48s
+  False Alarm: 56.15s (6.09%)
+  Missed Speech: 23.81s (2.58%)
+  VAD Error Rate: 8.67%
+
+File: tiams.rttm (ID: tiams)
+  Reference Speech Duration: 144.64s
+  VAD Speech Duration: 145.96s
+  Correct Detection: 144.47s
+  False Alarm: 1.49s (1.03%)
+  Missed Speech: 0.17s (0.12%)
+  VAD Error Rate: 1.14%
+
+File: tiido.rttm (ID: tiido)
+  Reference Speech Duration: 285.15s
+  VAD Speech Duration: 304.16s
+  Correct Detection: 280.48s
+  False Alarm: 23.68s (8.31%)
+  Missed Speech: 4.67s (1.64%)
+  VAD Error Rate: 9.94%
+
+File: tjkfn.rttm (ID: tjkfn)
+  Reference Speech Duration: 623.64s
+  VAD Speech Duration: 628.62s
+  Correct Detection: 622.83s
+  False Alarm: 5.79s (0.93%)
+  Missed Speech: 0.81s (0.13%)
+  VAD Error Rate: 1.06%
+
+File: tkhgs.rttm (ID: tkhgs)
+  Reference Speech Duration: 246.32s
+  VAD Speech Duration: 248.48s
+  Correct Detection: 245.29s
+  False Alarm: 3.20s (1.30%)
+  Missed Speech: 1.03s (0.42%)
+  VAD Error Rate: 1.72%
+
+File: tkybe.rttm (ID: tkybe)
+  Reference Speech Duration: 1129.35s
+  VAD Speech Duration: 1165.51s
+  Correct Detection: 1126.16s
+  False Alarm: 39.35s (3.48%)
+  Missed Speech: 3.19s (0.28%)
+  VAD Error Rate: 3.77%
+
+File: tlprc.rttm (ID: tlprc)
+  Reference Speech Duration: 136.96s
+  VAD Speech Duration: 139.28s
+  Correct Detection: 136.65s
+  False Alarm: 2.63s (1.92%)
+  Missed Speech: 0.31s (0.22%)
+  VAD Error Rate: 2.15%
+
+File: tnjoh.rttm (ID: tnjoh)
+  Reference Speech Duration: 75.32s
+  VAD Speech Duration: 74.64s
+  Correct Detection: 72.79s
+  False Alarm: 1.85s (2.46%)
+  Missed Speech: 2.53s (3.36%)
+  VAD Error Rate: 5.82%
+
+File: tplwz.rttm (ID: tplwz)
+  Reference Speech Duration: 226.36s
+  VAD Speech Duration: 228.45s
+  Correct Detection: 226.32s
+  False Alarm: 2.13s (0.94%)
+  Missed Speech: 0.04s (0.02%)
+  VAD Error Rate: 0.96%
+
+File: tpnyf.rttm (ID: tpnyf)
+  Reference Speech Duration: 1065.64s
+  VAD Speech Duration: 1108.34s
+  Correct Detection: 1058.17s
+  False Alarm: 50.17s (4.71%)
+  Missed Speech: 7.47s (0.70%)
+  VAD Error Rate: 5.41%
+
+File: tpslg.rttm (ID: tpslg)
+  Reference Speech Duration: 414.59s
+  VAD Speech Duration: 424.64s
+  Correct Detection: 413.47s
+  False Alarm: 11.17s (2.70%)
+  Missed Speech: 1.12s (0.27%)
+  VAD Error Rate: 2.97%
+
+File: tucrg.rttm (ID: tucrg)
+  Reference Speech Duration: 4.48s
+  VAD Speech Duration: 11.45s
+  Correct Detection: 4.31s
+  False Alarm: 7.14s (159.31%)
+  Missed Speech: 0.17s (3.73%)
+  VAD Error Rate: 163.04%
+
+File: tvtoe.rttm (ID: tvtoe)
+  Reference Speech Duration: 697.07s
+  VAD Speech Duration: 697.75s
+  Correct Detection: 695.52s
+  False Alarm: 2.23s (0.32%)
+  Missed Speech: 1.55s (0.22%)
+  VAD Error Rate: 0.54%
+
+File: txcok.rttm (ID: txcok)
+  Reference Speech Duration: 425.60s
+  VAD Speech Duration: 428.09s
+  Correct Detection: 425.40s
+  False Alarm: 2.69s (0.63%)
+  Missed Speech: 0.20s (0.05%)
+  VAD Error Rate: 0.68%
+
+File: uatlu.rttm (ID: uatlu)
+  Reference Speech Duration: 125.28s
+  VAD Speech Duration: 116.98s
+  Correct Detection: 109.86s
+  False Alarm: 7.12s (5.68%)
+  Missed Speech: 15.42s (12.31%)
+  VAD Error Rate: 17.99%
+
+File: udjij.rttm (ID: udjij)
+  Reference Speech Duration: 520.52s
+  VAD Speech Duration: 528.75s
+  Correct Detection: 511.71s
+  False Alarm: 17.04s (3.27%)
+  Missed Speech: 8.81s (1.69%)
+  VAD Error Rate: 4.97%
+
+File: uedkc.rttm (ID: uedkc)
+  Reference Speech Duration: 1116.79s
+  VAD Speech Duration: 1129.52s
+  Correct Detection: 1098.88s
+  False Alarm: 30.64s (2.74%)
+  Missed Speech: 17.91s (1.60%)
+  VAD Error Rate: 4.35%
+
+File: uevxo.rttm (ID: uevxo)
+  Reference Speech Duration: 223.15s
+  VAD Speech Duration: 224.26s
+  Correct Detection: 222.77s
+  False Alarm: 1.49s (0.67%)
+  Missed Speech: 0.38s (0.17%)
+  VAD Error Rate: 0.84%
+
+File: uexjc.rttm (ID: uexjc)
+  Reference Speech Duration: 296.56s
+  VAD Speech Duration: 300.99s
+  Correct Detection: 296.18s
+  False Alarm: 4.81s (1.62%)
+  Missed Speech: 0.38s (0.13%)
+  VAD Error Rate: 1.75%
+
+File: ufpel.rttm (ID: ufpel)
+  Reference Speech Duration: 237.92s
+  VAD Speech Duration: 237.24s
+  Correct Detection: 229.86s
+  False Alarm: 7.38s (3.10%)
+  Missed Speech: 8.06s (3.39%)
+  VAD Error Rate: 6.49%
+
+File: uhfrw.rttm (ID: uhfrw)
+  Reference Speech Duration: 806.73s
+  VAD Speech Duration: 822.66s
+  Correct Detection: 790.23s
+  False Alarm: 32.44s (4.02%)
+  Missed Speech: 16.50s (2.05%)
+  VAD Error Rate: 6.07%
+
+File: uicid.rttm (ID: uicid)
+  Reference Speech Duration: 902.78s
+  VAD Speech Duration: 831.91s
+  Correct Detection: 806.36s
+  False Alarm: 25.55s (2.83%)
+  Missed Speech: 96.42s (10.68%)
+  VAD Error Rate: 13.51%
+
+File: ulriv.rttm (ID: ulriv)
+  Reference Speech Duration: 460.92s
+  VAD Speech Duration: 460.34s
+  Correct Detection: 459.41s
+  False Alarm: 0.93s (0.20%)
+  Missed Speech: 1.51s (0.33%)
+  VAD Error Rate: 0.53%
+
+File: upshw.rttm (ID: upshw)
+  Reference Speech Duration: 568.25s
+  VAD Speech Duration: 570.56s
+  Correct Detection: 565.20s
+  False Alarm: 5.36s (0.94%)
+  Missed Speech: 3.05s (0.54%)
+  VAD Error Rate: 1.48%
+
+File: uqxlg.rttm (ID: uqxlg)
+  Reference Speech Duration: 276.68s
+  VAD Speech Duration: 282.02s
+  Correct Detection: 274.76s
+  False Alarm: 7.26s (2.62%)
+  Missed Speech: 1.92s (0.69%)
+  VAD Error Rate: 3.32%
+
+File: usbgm.rttm (ID: usbgm)
+  Reference Speech Duration: 57.48s
+  VAD Speech Duration: 57.85s
+  Correct Detection: 57.46s
+  False Alarm: 0.39s (0.68%)
+  Missed Speech: 0.02s (0.03%)
+  VAD Error Rate: 0.71%
+
+File: usqam.rttm (ID: usqam)
+  Reference Speech Duration: 553.36s
+  VAD Speech Duration: 580.70s
+  Correct Detection: 550.76s
+  False Alarm: 29.94s (5.41%)
+  Missed Speech: 2.60s (0.47%)
+  VAD Error Rate: 5.88%
+
+File: utial.rttm (ID: utial)
+  Reference Speech Duration: 1107.15s
+  VAD Speech Duration: 1111.72s
+  Correct Detection: 1102.74s
+  False Alarm: 8.98s (0.81%)
+  Missed Speech: 4.41s (0.40%)
+  VAD Error Rate: 1.21%
+
+File: uvnmy.rttm (ID: uvnmy)
+  Reference Speech Duration: 165.84s
+  VAD Speech Duration: 164.95s
+  Correct Detection: 163.88s
+  False Alarm: 1.07s (0.64%)
+  Missed Speech: 1.96s (1.18%)
+  VAD Error Rate: 1.83%
+
+File: vbjlx.rttm (ID: vbjlx)
+  Reference Speech Duration: 321.40s
+  VAD Speech Duration: 321.62s
+  Correct Detection: 320.91s
+  False Alarm: 0.71s (0.22%)
+  Missed Speech: 0.49s (0.15%)
+  VAD Error Rate: 0.37%
+
+File: vdlvr.rttm (ID: vdlvr)
+  Reference Speech Duration: 1160.58s
+  VAD Speech Duration: 1187.97s
+  Correct Detection: 1158.01s
+  False Alarm: 29.96s (2.58%)
+  Missed Speech: 2.57s (0.22%)
+  VAD Error Rate: 2.80%
+
+File: vgaez.rttm (ID: vgaez)
+  Reference Speech Duration: 134.11s
+  VAD Speech Duration: 142.58s
+  Correct Detection: 130.43s
+  False Alarm: 12.14s (9.05%)
+  Missed Speech: 3.68s (2.74%)
+  VAD Error Rate: 11.79%
+
+File: vgevv.rttm (ID: vgevv)
+  Reference Speech Duration: 891.59s
+  VAD Speech Duration: 913.02s
+  Correct Detection: 873.45s
+  False Alarm: 39.56s (4.44%)
+  Missed Speech: 18.14s (2.03%)
+  VAD Error Rate: 6.47%
+
+File: vmaiq.rttm (ID: vmaiq)
+  Reference Speech Duration: 707.52s
+  VAD Speech Duration: 716.71s
+  Correct Detection: 701.80s
+  False Alarm: 14.90s (2.11%)
+  Missed Speech: 5.72s (0.81%)
+  VAD Error Rate: 2.91%
+
+File: vmbga.rttm (ID: vmbga)
+  Reference Speech Duration: 625.96s
+  VAD Speech Duration: 635.67s
+  Correct Detection: 623.37s
+  False Alarm: 12.30s (1.96%)
+  Missed Speech: 2.59s (0.41%)
+  VAD Error Rate: 2.38%
+
+File: vncid.rttm (ID: vncid)
+  Reference Speech Duration: 1098.21s
+  VAD Speech Duration: 1100.03s
+  Correct Detection: 1080.97s
+  False Alarm: 19.06s (1.74%)
+  Missed Speech: 17.24s (1.57%)
+  VAD Error Rate: 3.31%
+
+File: vtzqw.rttm (ID: vtzqw)
+  Reference Speech Duration: 497.00s
+  VAD Speech Duration: 508.04s
+  Correct Detection: 478.53s
+  False Alarm: 29.50s (5.94%)
+  Missed Speech: 18.47s (3.72%)
+  VAD Error Rate: 9.65%
+
+File: vuewy.rttm (ID: vuewy)
+  Reference Speech Duration: 1160.51s
+  VAD Speech Duration: 1176.84s
+  Correct Detection: 1157.48s
+  False Alarm: 19.36s (1.67%)
+  Missed Speech: 3.03s (0.26%)
+  VAD Error Rate: 1.93%
+
+File: vylyk.rttm (ID: vylyk)
+  Reference Speech Duration: 91.16s
+  VAD Speech Duration: 3.34s
+  Correct Detection: 2.75s
+  False Alarm: 0.60s (0.66%)
+  Missed Speech: 88.41s (96.99%)
+  VAD Error Rate: 97.64%
+
+File: vysqj.rttm (ID: vysqj)
+  Reference Speech Duration: 84.52s
+  VAD Speech Duration: 84.08s
+  Correct Detection: 84.08s
+  False Alarm: 0.00s (0.00%)
+  Missed Speech: 0.44s (0.52%)
+  VAD Error Rate: 0.52%
+
+File: vzuru.rttm (ID: vzuru)
+  Reference Speech Duration: 1163.98s
+  VAD Speech Duration: 1161.49s
+  Correct Detection: 1152.11s
+  False Alarm: 9.38s (0.81%)
+  Missed Speech: 11.87s (1.02%)
+  VAD Error Rate: 1.83%
+
+File: wbqza.rttm (ID: wbqza)
+  Reference Speech Duration: 621.44s
+  VAD Speech Duration: 620.60s
+  Correct Detection: 617.74s
+  False Alarm: 2.86s (0.46%)
+  Missed Speech: 3.70s (0.59%)
+  VAD Error Rate: 1.05%
+
+File: wcxfk.rttm (ID: wcxfk)
+  Reference Speech Duration: 154.82s
+  VAD Speech Duration: 155.09s
+  Correct Detection: 154.71s
+  False Alarm: 0.38s (0.24%)
+  Missed Speech: 0.11s (0.07%)
+  VAD Error Rate: 0.31%
+
+File: wdjyj.rttm (ID: wdjyj)
+  Reference Speech Duration: 187.16s
+  VAD Speech Duration: 193.53s
+  Correct Detection: 186.50s
+  False Alarm: 7.03s (3.75%)
+  Missed Speech: 0.66s (0.35%)
+  VAD Error Rate: 4.11%
+
+File: wdvva.rttm (ID: wdvva)
+  Reference Speech Duration: 61.82s
+  VAD Speech Duration: 65.12s
+  Correct Detection: 61.79s
+  False Alarm: 3.33s (5.39%)
+  Missed Speech: 0.03s (0.05%)
+  VAD Error Rate: 5.44%
+
+File: wemos.rttm (ID: wemos)
+  Reference Speech Duration: 951.93s
+  VAD Speech Duration: 981.31s
+  Correct Detection: 911.81s
+  False Alarm: 69.50s (7.30%)
+  Missed Speech: 40.12s (4.21%)
+  VAD Error Rate: 11.52%
+
+File: wewoz.rttm (ID: wewoz)
+  Reference Speech Duration: 121.72s
+  VAD Speech Duration: 124.57s
+  Correct Detection: 121.58s
+  False Alarm: 3.00s (2.46%)
+  Missed Speech: 0.14s (0.12%)
+  VAD Error Rate: 2.58%
+
+File: whmpa.rttm (ID: whmpa)
+  Reference Speech Duration: 44.84s
+  VAD Speech Duration: 45.09s
+  Correct Detection: 44.83s
+  False Alarm: 0.25s (0.57%)
+  Missed Speech: 0.01s (0.02%)
+  VAD Error Rate: 0.59%
+
+File: wibky.rttm (ID: wibky)
+  Reference Speech Duration: 239.48s
+  VAD Speech Duration: 247.41s
+  Correct Detection: 238.17s
+  False Alarm: 9.24s (3.86%)
+  Missed Speech: 1.31s (0.55%)
+  VAD Error Rate: 4.41%
+
+File: willh.rttm (ID: willh)
+  Reference Speech Duration: 114.80s
+  VAD Speech Duration: 115.79s
+  Correct Detection: 114.72s
+  False Alarm: 1.07s (0.93%)
+  Missed Speech: 0.08s (0.07%)
+  VAD Error Rate: 1.00%
+
+File: wjhgf.rttm (ID: wjhgf)
+  Reference Speech Duration: 83.40s
+  VAD Speech Duration: 83.84s
+  Correct Detection: 82.53s
+  False Alarm: 1.31s (1.57%)
+  Missed Speech: 0.87s (1.04%)
+  VAD Error Rate: 2.62%
+
+File: wlfsf.rttm (ID: wlfsf)
+  Reference Speech Duration: 489.52s
+  VAD Speech Duration: 492.90s
+  Correct Detection: 486.29s
+  False Alarm: 6.61s (1.35%)
+  Missed Speech: 3.23s (0.66%)
+  VAD Error Rate: 2.01%
+
+File: wmori.rttm (ID: wmori)
+  Reference Speech Duration: 97.96s
+  VAD Speech Duration: 96.12s
+  Correct Detection: 95.21s
+  False Alarm: 0.92s (0.94%)
+  Missed Speech: 2.75s (2.81%)
+  VAD Error Rate: 3.75%
+
+File: wnfoi.rttm (ID: wnfoi)
+  Reference Speech Duration: 233.00s
+  VAD Speech Duration: 233.36s
+  Correct Detection: 231.70s
+  False Alarm: 1.66s (0.71%)
+  Missed Speech: 1.30s (0.56%)
+  VAD Error Rate: 1.27%
+
+File: wprog.rttm (ID: wprog)
+  Reference Speech Duration: 835.35s
+  VAD Speech Duration: 921.55s
+  Correct Detection: 797.41s
+  False Alarm: 124.14s (14.86%)
+  Missed Speech: 37.94s (4.54%)
+  VAD Error Rate: 19.40%
+
+File: wspbh.rttm (ID: wspbh)
+  Reference Speech Duration: 624.44s
+  VAD Speech Duration: 635.07s
+  Correct Detection: 623.01s
+  False Alarm: 12.05s (1.93%)
+  Missed Speech: 1.43s (0.23%)
+  VAD Error Rate: 2.16%
+
+File: wwvcs.rttm (ID: wwvcs)
+  Reference Speech Duration: 969.17s
+  VAD Speech Duration: 1001.88s
+  Correct Detection: 949.05s
+  False Alarm: 52.83s (5.45%)
+  Missed Speech: 20.12s (2.08%)
+  VAD Error Rate: 7.53%
+
+File: wwzsk.rttm (ID: wwzsk)
+  Reference Speech Duration: 630.75s
+  VAD Speech Duration: 629.27s
+  Correct Detection: 627.64s
+  False Alarm: 1.62s (0.26%)
+  Missed Speech: 3.11s (0.49%)
+  VAD Error Rate: 0.75%
+
+File: xffsa.rttm (ID: xffsa)
+  Reference Speech Duration: 973.16s
+  VAD Speech Duration: 982.41s
+  Correct Detection: 968.15s
+  False Alarm: 14.26s (1.47%)
+  Missed Speech: 5.01s (0.52%)
+  VAD Error Rate: 1.98%
+
+File: xggbk.rttm (ID: xggbk)
+  Reference Speech Duration: 1132.08s
+  VAD Speech Duration: 1158.34s
+  Correct Detection: 1123.09s
+  False Alarm: 35.25s (3.11%)
+  Missed Speech: 8.99s (0.79%)
+  VAD Error Rate: 3.91%
+
+File: xiglo.rttm (ID: xiglo)
+  Reference Speech Duration: 101.16s
+  VAD Speech Duration: 100.15s
+  Correct Detection: 99.26s
+  False Alarm: 0.89s (0.88%)
+  Missed Speech: 1.90s (1.87%)
+  VAD Error Rate: 2.75%
+
+File: xkgos.rttm (ID: xkgos)
+  Reference Speech Duration: 972.76s
+  VAD Speech Duration: 995.53s
+  Correct Detection: 964.28s
+  False Alarm: 31.25s (3.21%)
+  Missed Speech: 8.48s (0.87%)
+  VAD Error Rate: 4.08%
+
+File: xkmqx.rttm (ID: xkmqx)
+  Reference Speech Duration: 47.74s
+  VAD Speech Duration: 48.36s
+  Correct Detection: 47.74s
+  False Alarm: 0.62s (1.30%)
+  Missed Speech: 0.00s (0.00%)
+  VAD Error Rate: 1.30%
+
+File: xlsme.rttm (ID: xlsme)
+  Reference Speech Duration: 996.43s
+  VAD Speech Duration: 1076.19s
+  Correct Detection: 988.88s
+  False Alarm: 87.32s (8.76%)
+  Missed Speech: 7.55s (0.76%)
+  VAD Error Rate: 9.52%
+
+File: xlyov.rttm (ID: xlyov)
+  Reference Speech Duration: 632.43s
+  VAD Speech Duration: 638.43s
+  Correct Detection: 631.08s
+  False Alarm: 7.35s (1.16%)
+  Missed Speech: 1.35s (0.21%)
+  VAD Error Rate: 1.38%
+
+File: xmfzh.rttm (ID: xmfzh)
+  Reference Speech Duration: 174.76s
+  VAD Speech Duration: 172.13s
+  Correct Detection: 170.40s
+  False Alarm: 1.73s (0.99%)
+  Missed Speech: 4.36s (2.49%)
+  VAD Error Rate: 3.48%
+
+File: xmyyy.rttm (ID: xmyyy)
+  Reference Speech Duration: 242.52s
+  VAD Speech Duration: 239.90s
+  Correct Detection: 226.21s
+  False Alarm: 13.69s (5.64%)
+  Missed Speech: 16.31s (6.73%)
+  VAD Error Rate: 12.37%
+
+File: xqxkt.rttm (ID: xqxkt)
+  Reference Speech Duration: 1117.96s
+  VAD Speech Duration: 1125.50s
+  Correct Detection: 1103.35s
+  False Alarm: 22.15s (1.98%)
+  Missed Speech: 14.61s (1.31%)
+  VAD Error Rate: 3.29%
+
+File: xtdcl.rttm (ID: xtdcl)
+  Reference Speech Duration: 157.37s
+  VAD Speech Duration: 163.45s
+  Correct Detection: 151.86s
+  False Alarm: 11.59s (7.36%)
+  Missed Speech: 5.51s (3.50%)
+  VAD Error Rate: 10.86%
+
+File: xtzoq.rttm (ID: xtzoq)
+  Reference Speech Duration: 162.23s
+  VAD Speech Duration: 157.71s
+  Correct Detection: 151.43s
+  False Alarm: 6.29s (3.88%)
+  Missed Speech: 10.80s (6.66%)
+  VAD Error Rate: 10.54%
+
+File: xvllq.rttm (ID: xvllq)
+  Reference Speech Duration: 236.68s
+  VAD Speech Duration: 239.49s
+  Correct Detection: 236.15s
+  False Alarm: 3.34s (1.41%)
+  Missed Speech: 0.53s (0.22%)
+  VAD Error Rate: 1.63%
+
+File: xvxwv.rttm (ID: xvxwv)
+  Reference Speech Duration: 269.20s
+  VAD Speech Duration: 270.07s
+  Correct Detection: 268.10s
+  False Alarm: 1.97s (0.73%)
+  Missed Speech: 1.11s (0.41%)
+  VAD Error Rate: 1.14%
+
+File: xxwgv.rttm (ID: xxwgv)
+  Reference Speech Duration: 645.96s
+  VAD Speech Duration: 648.79s
+  Correct Detection: 643.03s
+  False Alarm: 5.75s (0.89%)
+  Missed Speech: 2.92s (0.45%)
+  VAD Error Rate: 1.34%
+
+File: xypdm.rttm (ID: xypdm)
+  Reference Speech Duration: 326.76s
+  VAD Speech Duration: 293.81s
+  Correct Detection: 283.11s
+  False Alarm: 10.70s (3.27%)
+  Missed Speech: 43.65s (13.36%)
+  VAD Error Rate: 16.63%
+
+File: ybhwz.rttm (ID: ybhwz)
+  Reference Speech Duration: 490.19s
+  VAD Speech Duration: 499.69s
+  Correct Detection: 489.90s
+  False Alarm: 9.79s (2.00%)
+  Missed Speech: 0.29s (0.06%)
+  VAD Error Rate: 2.06%
+
+File: ycxxe.rttm (ID: ycxxe)
+  Reference Speech Duration: 138.56s
+  VAD Speech Duration: 137.85s
+  Correct Detection: 136.99s
+  False Alarm: 0.86s (0.62%)
+  Missed Speech: 1.57s (1.13%)
+  VAD Error Rate: 1.75%
+
+File: ydlfw.rttm (ID: ydlfw)
+  Reference Speech Duration: 198.12s
+  VAD Speech Duration: 197.80s
+  Correct Detection: 197.65s
+  False Alarm: 0.15s (0.07%)
+  Missed Speech: 0.47s (0.24%)
+  VAD Error Rate: 0.31%
+
+File: yfcmz.rttm (ID: yfcmz)
+  Reference Speech Duration: 538.96s
+  VAD Speech Duration: 540.58s
+  Correct Detection: 538.22s
+  False Alarm: 2.36s (0.44%)
+  Missed Speech: 0.74s (0.14%)
+  VAD Error Rate: 0.58%
+
+File: ygrip.rttm (ID: ygrip)
+  Reference Speech Duration: 278.28s
+  VAD Speech Duration: 281.79s
+  Correct Detection: 277.33s
+  False Alarm: 4.46s (1.60%)
+  Missed Speech: 0.95s (0.34%)
+  VAD Error Rate: 1.95%
+
+File: ylgug.rttm (ID: ylgug)
+  Reference Speech Duration: 1082.10s
+  VAD Speech Duration: 1079.51s
+  Correct Detection: 1054.41s
+  False Alarm: 25.10s (2.32%)
+  Missed Speech: 27.69s (2.56%)
+  VAD Error Rate: 4.88%
+
+File: ylnza.rttm (ID: ylnza)
+  Reference Speech Duration: 527.96s
+  VAD Speech Duration: 527.42s
+  Correct Detection: 526.00s
+  False Alarm: 1.42s (0.27%)
+  Missed Speech: 1.96s (0.37%)
+  VAD Error Rate: 0.64%
+
+File: ylzez.rttm (ID: ylzez)
+  Reference Speech Duration: 1093.05s
+  VAD Speech Duration: 1151.86s
+  Correct Detection: 1085.56s
+  False Alarm: 66.30s (6.07%)
+  Missed Speech: 7.49s (0.69%)
+  VAD Error Rate: 6.75%
+
+File: ypwjd.rttm (ID: ypwjd)
+  Reference Speech Duration: 228.32s
+  VAD Speech Duration: 238.01s
+  Correct Detection: 226.10s
+  False Alarm: 11.91s (5.21%)
+  Missed Speech: 2.22s (0.97%)
+  VAD Error Rate: 6.19%
+
+File: yrsve.rttm (ID: yrsve)
+  Reference Speech Duration: 585.12s
+  VAD Speech Duration: 585.68s
+  Correct Detection: 584.55s
+  False Alarm: 1.13s (0.19%)
+  Missed Speech: 0.57s (0.10%)
+  VAD Error Rate: 0.29%
+
+File: ysgbf.rttm (ID: ysgbf)
+  Reference Speech Duration: 97.32s
+  VAD Speech Duration: 103.65s
+  Correct Detection: 97.15s
+  False Alarm: 6.50s (6.68%)
+  Missed Speech: 0.17s (0.18%)
+  VAD Error Rate: 6.86%
+
+File: ytmef.rttm (ID: ytmef)
+  Reference Speech Duration: 484.05s
+  VAD Speech Duration: 495.12s
+  Correct Detection: 483.88s
+  False Alarm: 11.24s (2.32%)
+  Missed Speech: 0.17s (0.03%)
+  VAD Error Rate: 2.36%
+
+File: ytula.rttm (ID: ytula)
+  Reference Speech Duration: 993.56s
+  VAD Speech Duration: 969.10s
+  Correct Detection: 957.20s
+  False Alarm: 11.89s (1.20%)
+  Missed Speech: 36.36s (3.66%)
+  VAD Error Rate: 4.86%
+
+File: yukhy.rttm (ID: yukhy)
+  Reference Speech Duration: 661.79s
+  VAD Speech Duration: 654.74s
+  Correct Detection: 651.49s
+  False Alarm: 3.26s (0.49%)
+  Missed Speech: 10.30s (1.56%)
+  VAD Error Rate: 2.05%
+
+File: yuzyu.rttm (ID: yuzyu)
+  Reference Speech Duration: 629.20s
+  VAD Speech Duration: 609.92s
+  Correct Detection: 609.77s
+  False Alarm: 0.14s (0.02%)
+  Missed Speech: 19.43s (3.09%)
+  VAD Error Rate: 3.11%
+
+File: ywcwr.rttm (ID: ywcwr)
+  Reference Speech Duration: 129.28s
+  VAD Speech Duration: 130.00s
+  Correct Detection: 128.88s
+  False Alarm: 1.12s (0.87%)
+  Missed Speech: 0.40s (0.31%)
+  VAD Error Rate: 1.17%
+
+File: yzvon.rttm (ID: yzvon)
+  Reference Speech Duration: 769.21s
+  VAD Speech Duration: 804.66s
+  Correct Detection: 761.59s
+  False Alarm: 43.07s (5.60%)
+  Missed Speech: 7.62s (0.99%)
+  VAD Error Rate: 6.59%
+
+File: zajzs.rttm (ID: zajzs)
+  Reference Speech Duration: 190.36s
+  VAD Speech Duration: 190.17s
+  Correct Detection: 190.00s
+  False Alarm: 0.18s (0.09%)
+  Missed Speech: 0.37s (0.19%)
+  VAD Error Rate: 0.28%
+
+File: zcdsd.rttm (ID: zcdsd)
+  Reference Speech Duration: 575.44s
+  VAD Speech Duration: 575.97s
+  Correct Detection: 573.84s
+  False Alarm: 2.13s (0.37%)
+  Missed Speech: 1.60s (0.28%)
+  VAD Error Rate: 0.65%
+
+File: zedtj.rttm (ID: zedtj)
+  Reference Speech Duration: 1076.61s
+  VAD Speech Duration: 1119.01s
+  Correct Detection: 1067.43s
+  False Alarm: 51.58s (4.79%)
+  Missed Speech: 9.18s (0.85%)
+  VAD Error Rate: 5.64%
+
+File: zehzu.rttm (ID: zehzu)
+  Reference Speech Duration: 159.61s
+  VAD Speech Duration: 161.09s
+  Correct Detection: 158.63s
+  False Alarm: 2.46s (1.54%)
+  Missed Speech: 0.98s (0.61%)
+  VAD Error Rate: 2.15%
+
+File: zfkap.rttm (ID: zfkap)
+  Reference Speech Duration: 102.84s
+  VAD Speech Duration: 102.59s
+  Correct Detection: 102.26s
+  False Alarm: 0.33s (0.32%)
+  Missed Speech: 0.58s (0.56%)
+  VAD Error Rate: 0.88%
+
+File: zfzlc.rttm (ID: zfzlc)
+  Reference Speech Duration: 1150.10s
+  VAD Speech Duration: 1155.95s
+  Correct Detection: 1141.83s
+  False Alarm: 14.13s (1.23%)
+  Missed Speech: 8.27s (0.72%)
+  VAD Error Rate: 1.95%
+
+File: zidwg.rttm (ID: zidwg)
+  Reference Speech Duration: 167.64s
+  VAD Speech Duration: 169.71s
+  Correct Detection: 166.79s
+  False Alarm: 2.92s (1.74%)
+  Missed Speech: 0.85s (0.51%)
+  VAD Error Rate: 2.25%
+
+File: zmndm.rttm (ID: zmndm)
+  Reference Speech Duration: 273.16s
+  VAD Speech Duration: 273.50s
+  Correct Detection: 271.40s
+  False Alarm: 2.10s (0.77%)
+  Missed Speech: 1.76s (0.65%)
+  VAD Error Rate: 1.41%
+
+File: zowse.rttm (ID: zowse)
+  Reference Speech Duration: 1035.91s
+  VAD Speech Duration: 1088.98s
+  Correct Detection: 1020.52s
+  False Alarm: 68.45s (6.61%)
+  Missed Speech: 15.39s (1.49%)
+  VAD Error Rate: 8.09%
+
+File: zqidv.rttm (ID: zqidv)
+  Reference Speech Duration: 705.26s
+  VAD Speech Duration: 728.95s
+  Correct Detection: 693.23s
+  False Alarm: 35.73s (5.07%)
+  Missed Speech: 12.03s (1.71%)
+  VAD Error Rate: 6.77%
+
+File: zrlyl.rttm (ID: zrlyl)
+  Reference Speech Duration: 525.96s
+  VAD Speech Duration: 528.96s
+  Correct Detection: 516.39s
+  False Alarm: 12.57s (2.39%)
+  Missed Speech: 9.57s (1.82%)
+  VAD Error Rate: 4.21%
+
+File: zsgto.rttm (ID: zsgto)
+  Reference Speech Duration: 1083.17s
+  VAD Speech Duration: 1115.24s
+  Correct Detection: 1069.97s
+  False Alarm: 45.27s (4.18%)
+  Missed Speech: 13.20s (1.22%)
+  VAD Error Rate: 5.40%
+
+File: ztzzr.rttm (ID: ztzzr)
+  Reference Speech Duration: 215.96s
+  VAD Speech Duration: 231.41s
+  Correct Detection: 215.06s
+  False Alarm: 16.35s (7.57%)
+  Missed Speech: 0.89s (0.41%)
+  VAD Error Rate: 7.98%
+
+File: zvmyn.rttm (ID: zvmyn)
+  Reference Speech Duration: 113.20s
+  VAD Speech Duration: 118.63s
+  Correct Detection: 112.75s
+  False Alarm: 5.88s (5.20%)
+  Missed Speech: 0.45s (0.40%)
+  VAD Error Rate: 5.59%
+
+File: zyffh.rttm (ID: zyffh)
+  Reference Speech Duration: 245.24s
+  VAD Speech Duration: 247.95s
+  Correct Detection: 244.23s
+  False Alarm: 3.72s (1.52%)
+  Missed Speech: 1.01s (0.41%)
+  VAD Error Rate: 1.93%
+
+File: zzsba.rttm (ID: zzsba)
+  Reference Speech Duration: 1074.36s
+  VAD Speech Duration: 1120.12s
+  Correct Detection: 1061.57s
+  False Alarm: 58.54s (5.45%)
+  Missed Speech: 12.79s (1.19%)
+  VAD Error Rate: 6.64%
+
+File: zztbo.rttm (ID: zztbo)
+  Reference Speech Duration: 54.72s
+  VAD Speech Duration: 54.16s
+  Correct Detection: 53.33s
+  False Alarm: 0.83s (1.52%)
+  Missed Speech: 1.39s (2.54%)
+  VAD Error Rate: 4.06%
+
+File: zzyyo.rttm (ID: zzyyo)
+  Reference Speech Duration: 1075.48s
+  VAD Speech Duration: 1097.52s
+  Correct Detection: 1070.27s
+  False Alarm: 27.25s (2.53%)
+  Missed Speech: 5.21s (0.48%)
+  VAD Error Rate: 3.02%
+
+================================================================================
+OVERALL VAD PERFORMANCE
+================================================================================
+
+Total Reference Speech Duration: 208423.82s
+Total VAD Speech Duration: 211682.32s
+Total Correct Detection: 205839.05s
+
+Total False Alarm: 5843.27s (2.80%)
+Total Missed Speech: 2584.77s (1.24%)
+
+*** Overall VAD Error Rate (VER): 4.04% ***
+
+Number of files processed: 448
+Average file duration: 465.23s
+
+================================================================================

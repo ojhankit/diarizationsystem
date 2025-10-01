@@ -43,7 +43,7 @@ def estimate_speakers_eigengap(sim_matrix, max_speakers, method):
             k_eigengap = 2
             
         # Method 2: Enhanced sqrt heuristic with scaling
-        k_sqrt = max(2, int(np.sqrt(n) * 1.5))  # Scale up sqrt estimate
+        k_sqrt = max(2, int(np.sqrt(n) * 2.5))  # Scale up sqrt estimate
         
         # Method 3: Connectivity-based estimate
         # Count number of distinct "communities" based on strong connections
@@ -80,7 +80,7 @@ def first_pass_clustering(
     embeddings,
     min_seg_duration=2.5,
     max_speakers=25,
-    affinity_threshold=0.05,  # Keep low threshold
+    affinity_threshold=0.08,  # Keep low threshold
     estimation_method='sqrt',
 ):
     """
