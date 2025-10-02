@@ -80,7 +80,7 @@ def first_pass_clustering(
     embeddings,
     min_seg_duration=2.5,
     max_speakers=25,
-    affinity_threshold=0.08,  # Keep low threshold
+    affinity_threshold=0.15,  # Keep low threshold
     estimation_method='sqrt',
 ):
     """
@@ -134,9 +134,10 @@ def first_pass_clustering(
     clustering = SpectralClustering(
         n_clusters=est_speakers,
         affinity="precomputed",
-        assign_labels="kmeans",
+        assign_labels="discretize",
         random_state=42,
-        n_init=10  # Multiple initializations for stability
+        n_init=20,  # Multiple initializations for stability
+        eigen_solver="arpack"
     )
     labels = clustering.fit_predict(affinity_matrix)
 
