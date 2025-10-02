@@ -13,7 +13,7 @@ logger.info(f"Using device: {device}")
 # --------------------------
 logger.info("Loading embedding model 'pyannote/embedding'...")
 embedding_model = Model.from_pretrained(
-    "pyannote/embedding",
+    "pyannote/wespeaker-voxceleb-resnet34-LM",
     use_auth_token=HF_ACCESS_TOKEN
 ).to(device)
 #inference = Inference(embedding_model, window="whole")
@@ -87,8 +87,8 @@ def extract_embeddings(vad_result: Annotation, audio_file: str):
     #MIN_SEG_DURATION = 1.0      # Minimum duration to avoid kernel size issues
     #MAX_SEG_DURATION = 3.0      # Maximum chunk size
     MIN_SEG_DURATION = 2.0
-    MAX_SEG_DURATION = 8.0
-    #MAX_SEG_DURATION = 10.0
+    #MAX_SEG_DURATION = 8.0
+    MAX_SEG_DURATION = 10.0
     logger.info(f"Processing {len(list(vad_result.itersegments()))} segments from VAD")
 
     for idx, (segment, _, _) in enumerate(vad_result.itertracks(yield_label=True), 1):
