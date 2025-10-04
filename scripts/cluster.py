@@ -161,9 +161,9 @@ def first_pass_clustering(
 def recluster_embeddings(
     embeddings,
     first_pass_labels,
-    distance_threshold=0.35,  # Slightly increased for less aggressive merging
+    distance_threshold=0.20,  # Slightly increased for less aggressive merging
     similarity_merge_threshold=0.85,  # Lower threshold = easier to keep separate
-    min_cluster_size=1,  # Allow smaller clusters (was 2)
+    min_cluster_size=2,  # Allow smaller clusters (was 2)
     max_iterations=2,  # Reduce iterations to preserve clusters
 ):
     """
@@ -235,8 +235,8 @@ def recluster_embeddings(
             for j in range(i + 1, len(unique_labels)):
                 if sims[i, j] >= similarity_merge_threshold:
                     # Only merge if both clusters are small OR similarity is extremely high
-                    if (cluster_sizes.get(unique_labels[i], 0) < 5 and 
-                        cluster_sizes.get(unique_labels[j], 0) < 5) or sims[i, j] >= 0.95:
+                    if (cluster_sizes.get(unique_labels[i], 0) < min_cluster_size and 
+                        cluster_sizes.get(unique_labels[j], 0) < min_cluster_size) or sims[i, j] >= 0.95:
                         refined_labels[refined_labels == unique_labels[j]] = unique_labels[i]
                         merged = True
                         logger.info(f"Merged clusters {unique_labels[i]} and {unique_labels[j]} (sim: {sims[i, j]:.3f})")
