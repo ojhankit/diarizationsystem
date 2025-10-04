@@ -5,6 +5,7 @@ from config import logger
 from pyannote.core import Annotation
 from pyannote.database.util import load_rttm
 from embedder import extract_embeddings
+#from ecapa_embedder import extract_embeddings
 from cluster import first_pass_clustering, recluster_embeddings
 from annotation import build_annotation
 
@@ -27,7 +28,7 @@ if __name__ == "__main__":
     logger.info(f"Found {len(wav_files)} wav files in {audio_dir}")
 
     # Process each audio file
-    for wav_path in tqdm(wav_files[323:], desc="Embedding & Clustering"):
+    for wav_path in tqdm(wav_files[:], desc="Embedding & Clustering"):
         audio_name = os.path.basename(wav_path).replace(".wav", "")
         rttm_path = os.path.join(vad_dir, f"{audio_name}.rttm")
 
