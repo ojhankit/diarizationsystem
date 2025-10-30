@@ -203,6 +203,7 @@ def main():
                 total_metrics[key] += metrics[key]
             
             # Print per-file results
+            '''
             print(f"\nFile: {vad_filename} (ID: {file_id})")
             print(f"  Reference Speech Duration: {metrics['ref_duration']:.2f}s")
             print(f"  VAD Speech Duration: {metrics['vad_duration']:.2f}s")
@@ -210,6 +211,7 @@ def main():
             print(f"  False Alarm: {metrics['false_alarm']:.2f}s ({metrics['false_alarm_rate']:.2f}%)")
             print(f"  Missed Speech: {metrics['missed_speech']:.2f}s ({metrics['missed_speech_rate']:.2f}%)")
             print(f"  VAD Error Rate: {metrics['vad_error_rate']:.2f}%")
+            '''
     
     # Calculate overall metrics
     print("\n" + "=" * 80)

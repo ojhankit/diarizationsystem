@@ -22,7 +22,7 @@ logger.setLevel(logging.DEBUG)  # capture everything from DEBUG upwards
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 
 # File handler only
-fh = logging.FileHandler("diarization.log", mode="a")
+fh = logging.FileHandler("diarization_check_1.log", mode="a")
 fh.setLevel(logging.DEBUG)  # log DEBUG and above
 fh.setFormatter(formatter)
 logger.addHandler(fh)
