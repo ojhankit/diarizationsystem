@@ -32,3 +32,23 @@ This repo takes raw audio files → detects speech → extracts embeddings → c
 - 🖥️ **Detailed Logging** for full transparency at each stage  
 
 ---
+## Repo Structure
+.
+├── __pycache__/                 # Python cache files
+├── vad_outputs/                 # VAD-detected speech segments
+├── annotation.py                # Handles RTTM parsing, annotation merging, and segment management
+├── cluster.py                   # Implements spectral + hierarchical clustering logic
+├── config.py                    # Centralized configuration (logging, paths, model parameters)
+├── diarization.log              # Log file (main diarization run)
+├── diarizationv2.log            # Log file for v2 run (refined pipeline)
+├── ecapa_embedder.py            # ECAPA-TDNN embedder (SpeechBrain implementation)
+├── embedder.py                  # Pyannote-based speaker embedding extractor
+├── evaluate_diarization.py      # Script to evaluate diarization outputs (DER/JER computation)
+├── fix_name.py                  # Fixes and renames RTTM file IDs for consistency
+├── helper.py                    # Utility helper functions used across modules
+├── run.sh                       # Shell script to launch diarization pipeline end-to-end
+├── runner.py                    # Main pipeline orchestrator combining VAD → Embedding → Clustering → RTTM
+├── utils.py                     # Shared utility functions (I/O, signal handling, error management)
+├── vad.py                       # Voice Activity Detection (Pyannote-based)
+└── clean_log.sh                 # Cleans old logs and temporary files
+
