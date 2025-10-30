@@ -32,6 +32,18 @@ This repo takes raw audio files → detects speech → extracts embeddings → c
 - 🖥️ **Detailed Logging** for full transparency at each stage  
 
 ---
+## File Structure
+- Scripts directory contains all components for performing diarization
+  - config.py: Central configuration: logger, paths, model/tuning params
+  - vad.py: Voice Activity Detection (Pyannote-based)
+  - embedder.py: Pyannote speaker embedding extractor (GPU-optimized)
+  - ecapa-embedder: ECAPA-TDNN embedder (SpeechBrain implementation)
+  - cluster.py: Spectral + Hierarchical clustering logic
+  - annotation.py: RTTM parsing, merging, and annotation management
 
-
+---
+## Other files
+- cal_spks.py: calculates speaker count of each audio from their rttm file
+- cal_vad_error.py: calculates only vad error
+- test.py: calculates der and jer
 
